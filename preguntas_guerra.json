@@ -1,0 +1,212 @@
+{
+    "guerra": {
+        "facil": [
+            {
+                "pregunta": "¿Cuál fue el conflicto bélico que involucró a Estados Unidos y la Unión Soviética durante la Guerra Fría?",
+                "opciones": [
+                    "Guerra de Vietnam",
+                    "Guerra de Corea",
+                    "Guerra del Golfo",
+                    "Guerra Civil de El Salvador"
+                ],
+                "respuesta_correcta": "Guerra de Corea"
+            },
+            {
+                "pregunta": "¿En qué año comenzó la Primera Guerra Mundial?",
+                "opciones": [
+                    "1914",
+                    "1939",
+                    "1945",
+                    "1918"
+                ],
+                "respuesta_correcta": "1914"
+            },
+            {
+                "pregunta": "¿Qué arma de fuego automática fue ampliamente utilizada durante la Primera Guerra Mundial?",
+                "opciones": [
+                    "Rifle M16",
+                    "Subfusil Thompson",
+                    "Fusil Mosin-Nagant",
+                    "Ametralladora Maxim"
+                ],
+                "respuesta_correcta": "Ametralladora Maxim"
+            },
+            {
+                "pregunta": "¿En qué país se libró la Guerra de las Malvinas en 1982?",
+                "opciones": [
+                    "Argentina",
+                    "Chile",
+                    "Reino Unido",
+                    "Brasil"
+                ],
+                "respuesta_correcta": "Argentina"
+            },
+            {
+                "pregunta": "¿Qué conflicto armado se conoce como la 'Guerra del Golfo'?",
+                "opciones": [
+                    "Guerra de Corea",
+                    "Guerra de Vietnam",
+                    "Guerra del Golfo Pérsico",
+                    "Guerra Civil de España"
+                ],
+                "respuesta_correcta": "Guerra del Golfo Pérsico"
+            }
+        ],
+        "medio": [
+            {
+                "pregunta": "¿Cuál fue la batalla más grande y sangrienta de la Segunda Guerra Mundial?",
+                "opciones": [
+                    "Batalla de Stalingrado",
+                    "Batalla de Normandía",
+                    "Batalla de El Alamein",
+                    "Batalla de Midway"
+                ],
+                "respuesta_correcta": "Batalla de Stalingrado"
+            },
+            {
+                "pregunta": "¿Quién fue el líder de las fuerzas aliadas en la Segunda Guerra Mundial?",
+                "opciones": [
+                    "Adolf Hitler",
+                    "Benito Mussolini",
+                    "Winston Churchill",
+                    "Franklin D. Roosevelt"
+                ],
+                "respuesta_correcta": "Winston Churchill"
+            },
+            {
+                "pregunta": "¿En qué año se fundó la Organización de las Naciones Unidas (ONU)?",
+                "opciones": [
+                    "1945",
+                    "1950",
+                    "1939",
+                    "1960"
+                ],
+                "respuesta_correcta": "1945"
+            },
+            {
+                "pregunta": "¿Qué arma nuclear fue arrojada sobre la ciudad japonesa de Hiroshima durante la Segunda Guerra Mundial?",
+                "opciones": [
+                    "Bomba atómica de Fát Man",
+                    "Bomba atómica de Little Boy",
+                    "Bomba de hidrógeno",
+                    "Bomba de napalm"
+                ],
+                "respuesta_correcta": "Bomba atómica de Little Boy"
+            },
+            {
+                "pregunta": "¿En qué conflicto armado se luchó en la famosa 'Batalla de las Árdenas'?",
+                "opciones": [
+                    "Primera Guerra Mundial",
+                    "Segunda Guerra Mundial",
+                    "Guerra de Vietnam",
+                    "Guerra de Corea"
+                ],
+                "respuesta_correcta": "Segunda Guerra Mundial"
+            }
+        ],
+        "dificil": [
+            {
+                "pregunta": "¿Cuál fue el conflicto armado que involucró a Estados Unidos y Vietnam del Norte?",
+                "opciones": [
+                    "Guerra de Vietnam",
+                    "Guerra de Corea",
+                    "Guerra de Irak",
+                    "Guerra de Afganistán"
+                ],
+                "respuesta_correcta": "Guerra de Vietnam"
+            },
+            {
+                "pregunta": "¿En qué año comenzó la Guerra Civil Española?",
+                "opciones": [
+                    "1936",
+                    "1945",
+                    "1920",
+                    "1950"
+                ],
+                "respuesta_correcta": "1936"
+            },
+            {
+                "pregunta": "¿Cuál fue el nombre en clave de la invasión aliada en Normandía durante la Segunda Guerra Mundial?",
+                "opciones": [
+                    "Operación Overlord",
+                    "Operación Barbarroja",
+                    "Operación Market Garden",
+                    "Operación Torch"
+                ],
+                "respuesta_correcta": "Operación Overlord"
+            },
+            {
+                "pregunta": "¿Qué país se separó de Checoslovaquia en 1993 después de un proceso pacífico conocido como 'la Revolución de Terciopelo'?",
+                "opciones": [
+                    "Eslovaquia",
+                    "Hungría",
+                    "Austria",
+                    "Polonia"
+                ],
+                "respuesta_correcta": "Eslovaquia"
+            },
+            {
+                "pregunta": "¿Cuál fue el conflicto armado que involucró a Estados Unidos y Afganistán después de los ataques del 11 de septiembre?",
+                "opciones": [
+                    "Guerra de Irak",
+                    "Guerra de Vietnam",
+                    "Guerra de Afganistán",
+                    "Guerra del Golfo Pérsico"
+                ],
+                "respuesta_correcta": "Guerra de Afganistán"
+            }
+        ],
+        "experto": [
+            {
+                "pregunta": "¿Cuál fue el nombre del líder nazi que dirigió el Holocausto durante la Segunda Guerra Mundial?",
+                "opciones": [
+                    "Heinrich Himmler",
+                    "Adolf Eichmann",
+                    "Joseph Goebbels",
+                    "Hermann Göring"
+                ],
+                "respuesta_correcta": "Heinrich Himmler"
+            },
+            {
+                "pregunta": "¿En qué año comenzó la Guerra de los Seis Días, un conflicto en el Medio Oriente?",
+                "opciones": [
+                    "1967",
+                    "1973",
+                    "1956",
+                    "1982"
+                ],
+                "respuesta_correcta": "1967"
+            },
+            {
+                "pregunta": "¿Cuál fue el nombre del líder militar de la Unión Soviética durante la Segunda Guerra Mundial?",
+                "opciones": [
+                    "Nikita Jrushchov",
+                    "Leon Trotsky",
+                    "Georgi Zhúkov",
+                    "Yuri Gagarin"
+                ],
+                "respuesta_correcta": "Georgi Zhúkov"
+            },
+            {
+                "pregunta": "¿Qué arma nuclear fue arrojada sobre la ciudad japonesa de Nagasaki durante la Segunda Guerra Mundial?",
+                "opciones": [
+                    "Bomba de hidrógeno",
+                    "Bomba atómica de Fát Man",
+                    "Bomba atómica de Little Boy",
+                    "Bomba de napalm"
+                ],
+                "respuesta_correcta": "Bomba atómica de Fát Man"
+            },
+            {
+                "pregunta": "¿En qué año se firmó el Tratado de Versalles que puso fin a la Primera Guerra Mundial?",
+                "opciones": [
+                    "1919",
+                    "1920",
+                    "1918",
+                    "1921"
+                ],
+                "respuesta_correcta": "1919"
+            }
+        ]
+    }
+}

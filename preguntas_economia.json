@@ -1,0 +1,212 @@
+{
+    "economia": {
+        "facil": [
+            {
+                "pregunta": "¿Cuál es la moneda oficial de Japón?",
+                "opciones": [
+                    "Yen",
+                    "Dólar",
+                    "Euro",
+                    "Libra esterlina"
+                ],
+                "respuesta_correcta": "Yen"
+            },
+            {
+                "pregunta": "¿En qué país se encuentra la sede de la Organización de las Naciones Unidas (ONU)?",
+                "opciones": [
+                    "Estados Unidos",
+                    "Francia",
+                    "Reino Unido",
+                    "Suiza"
+                ],
+                "respuesta_correcta": "Estados Unidos"
+            },
+            {
+                "pregunta": "¿Cuál es la moneda oficial de la Unión Europea?",
+                "opciones": [
+                    "Dólar",
+                    "Euro",
+                    "Yen",
+                    "Libra esterlina"
+                ],
+                "respuesta_correcta": "Euro"
+            },
+            {
+                "pregunta": "¿Cuál es la abreviatura de la bolsa de valores de Nueva York?",
+                "opciones": [
+                    "NASDAQ",
+                    "NYSE",
+                    "LSE",
+                    "TSE"
+                ],
+                "respuesta_correcta": "NYSE"
+            },
+            {
+                "pregunta": "¿Qué empresa es conocida por su motor de búsqueda en internet?",
+                "opciones": [
+                    "Apple",
+                    "Google",
+                    "Microsoft",
+                    "Amazon"
+                ],
+                "respuesta_correcta": "Google"
+            }
+        ],
+        "medio": [
+            {
+                "pregunta": "¿Cuál es la principal criptomoneda en términos de capitalización de mercado?",
+                "opciones": [
+                    "Bitcoin",
+                    "Ethereum",
+                    "Ripple",
+                    "Litecoin"
+                ],
+                "respuesta_correcta": "Bitcoin"
+            },
+            {
+                "pregunta": "¿Quién es el fundador de Microsoft Corporation?",
+                "opciones": [
+                    "Steve Jobs",
+                    "Bill Gates",
+                    "Jeff Bezos",
+                    "Mark Zuckerberg"
+                ],
+                "respuesta_correcta": "Bill Gates"
+            },
+            {
+                "pregunta": "¿Cuál es el principal índice bursátil de la bolsa de valores de Nueva York?",
+                "opciones": [
+                    "Dow Jones Industrial Average",
+                    "S&P 500",
+                    "NASDAQ Composite",
+                    "FTSE 100"
+                ],
+                "respuesta_correcta": "Dow Jones Industrial Average"
+            },
+            {
+                "pregunta": "¿Cuál es la moneda oficial de Canadá?",
+                "opciones": [
+                    "Dólar canadiense",
+                    "Euro",
+                    "Libra esterlina",
+                    "Yen"
+                ],
+                "respuesta_correcta": "Dólar canadiense"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre de la moneda oficial de China?",
+                "opciones": [
+                    "Yuan",
+                    "Dólar",
+                    "Euro",
+                    "Libra esterlina"
+                ],
+                "respuesta_correcta": "Yuan"
+            }
+        ],
+        "dificil": [
+            {
+                "pregunta": "¿Quién es considerado el padre de la economía moderna y escribió 'La Riqueza de las Naciones'?",
+                "opciones": [
+                    "John Maynard Keynes",
+                    "Karl Marx",
+                    "Adam Smith",
+                    "Milton Friedman"
+                ],
+                "respuesta_correcta": "Adam Smith"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre de la criptomoneda diseñada para estabilidad de precios, respaldada por reservas de activos?",
+                "opciones": [
+                    "Bitcoin",
+                    "Ethereum",
+                    "Tether",
+                    "Ripple"
+                ],
+                "respuesta_correcta": "Tether"
+            },
+            {
+                "pregunta": "¿Quién es el fundador de Amazon.com?",
+                "opciones": [
+                    "Elon Musk",
+                    "Jeff Bezos",
+                    "Mark Zuckerberg",
+                    "Bill Gates"
+                ],
+                "respuesta_correcta": "Jeff Bezos"
+            },
+            {
+                "pregunta": "¿Cuál es el término económico que describe la situación en la que la demanda de un bien supera a la oferta?",
+                "opciones": [
+                    "Inflación",
+                    "Recesión",
+                    "Deflación",
+                    "Escasez"
+                ],
+                "respuesta_correcta": "Escasez"
+            },
+            {
+                "pregunta": "¿Qué siglas representan el Tratado de Libre Comercio de América del Norte?",
+                "opciones": [
+                    "UNICEF",
+                    "NAFTA",
+                    "EUROSTAT",
+                    "ASEAN"
+                ],
+                "respuesta_correcta": "NAFTA"
+            }
+        ],
+        "experto": [
+            {
+                "pregunta": "¿Quién es el autor de 'El Capital', una obra influyente en la teoría económica y política?",
+                "opciones": [
+                    "John Maynard Keynes",
+                    "Karl Marx",
+                    "Adam Smith",
+                    "Milton Friedman"
+                ],
+                "respuesta_correcta": "Karl Marx"
+            },
+            {
+                "pregunta": "¿Qué término se utiliza para describir la reducción del valor de una moneda nacional en relación con otras monedas?",
+                "opciones": [
+                    "Depreciación",
+                    "Amortización",
+                    "Desinflación",
+                    "Revaluación"
+                ],
+                "respuesta_correcta": "Depreciación"
+            },
+            {
+                "pregunta": "¿Qué siglas representan la Organización de Países Exportadores de Petróleo?",
+                "opciones": [
+                    "UNICEF",
+                    "OECD",
+                    "OPEP",
+                    "GATT"
+                ],
+                "respuesta_correcta": "OPEP"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del tratado que estableció la moneda única europea, el euro?",
+                "opciones": [
+                    "Tratado de Maastricht",
+                    "Tratado de Versalles",
+                    "Acuerdo de Schengen",
+                    "Tratado de Lisboa"
+                ],
+                "respuesta_correcta": "Tratado de Maastricht"
+            },
+            {
+                "pregunta": "¿Cuál es el término económico que describe la medida en que una inversión aumenta su valor con el tiempo?",
+                "opciones": [
+                    "Inflación",
+                    "Recesión",
+                    "Amortización",
+                    "Interés compuesto"
+                ],
+                "respuesta_correcta": "Interés compuesto"
+            }
+        ]
+    }
+}

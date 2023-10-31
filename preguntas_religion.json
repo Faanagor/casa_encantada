@@ -1,0 +1,212 @@
+{
+    "religion": {
+        "facil": [
+            {
+                "pregunta": "¿Cuál es la religión que tiene a la mezquita de La Meca como uno de sus lugares más sagrados?",
+                "opciones": [
+                    "Cristianismo",
+                    "Judaísmo",
+                    "Hinduismo",
+                    "Islam"
+                ],
+                "respuesta_correcta": "Islam"
+            },
+            {
+                "pregunta": "¿En qué religión se celebra la festividad de Pascua?",
+                "opciones": [
+                    "Islam",
+                    "Judaísmo",
+                    "Cristianismo",
+                    "Hinduismo"
+                ],
+                "respuesta_correcta": "Cristianismo"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del fundador del budismo?",
+                "opciones": [
+                    "Mahatma Gandhi",
+                    "Buda",
+                    "Dalai Lama",
+                    "Lao-Tsé"
+                ],
+                "respuesta_correcta": "Buda"
+            },
+            {
+                "pregunta": "¿En qué religión se venera la figura de la Virgen María?",
+                "opciones": [
+                    "Islam",
+                    "Judaísmo",
+                    "Cristianismo",
+                    "Hinduismo"
+                ],
+                "respuesta_correcta": "Cristianismo"
+            },
+            {
+                "pregunta": "¿Qué país es conocido por su mayoría de población hindú?",
+                "opciones": [
+                    "Indonesia",
+                    "India",
+                    "Bangladesh",
+                    "Pakistán"
+                ],
+                "respuesta_correcta": "India"
+            }
+        ],
+        "medio": [
+            {
+                "pregunta": "¿Cuál es el nombre de la festividad judía que conmemora la liberación de los hebreos de la esclavitud en Egipto?",
+                "opciones": [
+                    "Hanukkah",
+                    "Rosh Hashaná",
+                    "Shavuot",
+                    "Pésaj (Pascua)"
+                ],
+                "respuesta_correcta": "Pésaj (Pascua)"
+            },
+            {
+                "pregunta": "¿Qué religión se basa en las enseñanzas del profeta Muhammad y el Corán?",
+                "opciones": [
+                    "Judaísmo",
+                    "Cristianismo",
+                    "Budismo",
+                    "Islam"
+                ],
+                "respuesta_correcta": "Islam"
+            },
+            {
+                "pregunta": "¿Cuál es el sacramento en el cristianismo que representa la última cena de Jesús con sus discípulos?",
+                "opciones": [
+                    "Bautismo",
+                    "Comunión",
+                    "Confirmación",
+                    "Matrimonio"
+                ],
+                "respuesta_correcta": "Comunión"
+            },
+            {
+                "pregunta": "¿Cuál es el libro sagrado del hinduismo?",
+                "opciones": [
+                    "Biblia",
+                    "Torá",
+                    "Corán",
+                    "Bhagavad Gita"
+                ],
+                "respuesta_correcta": "Bhagavad Gita"
+            },
+            {
+                "pregunta": "¿En qué religión se celebra el Festival de las Luces conocido como Diwali?",
+                "opciones": [
+                    "Cristianismo",
+                    "Islam",
+                    "Hinduismo",
+                    "Budismo"
+                ],
+                "respuesta_correcta": "Hinduismo"
+            }
+        ],
+        "dificil": [
+            {
+                "pregunta": "¿Cuál es el nombre del ritual islámico que se realiza durante el mes de Ramadán?",
+                "opciones": [
+                    "Hajj",
+                    "Salat",
+                    "Zakat",
+                    "Sawm"
+                ],
+                "respuesta_correcta": "Sawm"
+            },
+            {
+                "pregunta": "¿Quién es el líder espiritual de la religión católica y reside en el Vaticano?",
+                "opciones": [
+                    "Dalai Lama",
+                    "Papa",
+                    "Imam",
+                    "Arzobispo"
+                ],
+                "respuesta_correcta": "Papa"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del día sagrado de descanso en el judaísmo?",
+                "opciones": [
+                    "Shabbat",
+                    "Yom Kippur",
+                    "Pesaj",
+                    "Sukkot"
+                ],
+                "respuesta_correcta": "Shabbat"
+            },
+            {
+                "pregunta": "¿En qué religión se celebra el ritual del Hajj en la ciudad de La Meca?",
+                "opciones": [
+                    "Hinduismo",
+                    "Budismo",
+                    "Islam",
+                    "Sijismo"
+                ],
+                "respuesta_correcta": "Islam"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del santo patrono de los animales en la religión católica?",
+                "opciones": [
+                    "San Pedro",
+                    "San Judas Tadeo",
+                    "San Francisco de Asís",
+                    "San Agustín"
+                ],
+                "respuesta_correcta": "San Francisco de Asís"
+            }
+        ],
+        "experto": [
+            {
+                "pregunta": "¿Cuál es el nombre del sacramento en el cristianismo que representa la confirmación de la fe?",
+                "opciones": [
+                    "Comunión",
+                    "Bautismo",
+                    "Confirmación",
+                    "Matrimonio"
+                ],
+                "respuesta_correcta": "Confirmación"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del profeta fundador del sijismo?",
+                "opciones": [
+                    "Mahavira",
+                    "Buda",
+                    "Gurú Nanak",
+                    "Zaratustra"
+                ],
+                "respuesta_correcta": "Gurú Nanak"
+            },
+            {
+                "pregunta": "¿En qué religión se celebra el ritual conocido como Bar Mitzvah para los adolescentes judíos?",
+                "opciones": [
+                    "Judaísmo",
+                    "Cristianismo",
+                    "Islam",
+                    "Hinduismo"
+                ],
+                "respuesta_correcta": "Judaísmo"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del rito de paso en el hinduismo que marca la transición a la edad adulta?",
+                "opciones": [
+                    "Bar Mitzvah",
+                    "Rumspringa",
+                    "Samskara",
+                    "Quinceañera"
+                ],
+                "respuesta_correcta": "Samskara"
+            },
+            {
+                "pregunta": "¿En qué religión se celebra el ritual de la circuncisión como un pacto con Dios?",
+                "opciones": [
+                    "Cristianismo",
+                    "Judaísmo",
+                    "Islam",
+                    "Budismo"
+                ],
+                "respuesta_correcta": "Judaísmo"
+            }
+        ]
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "arte": {
+      "facil": [
+        {
+          "pregunta": "¿Quién pintó la 'Mona Lisa'?",
+          "opciones": ["Pablo Picasso", "Leonardo da Vinci", "Vincent van Gogh", "Rembrandt"],
+          "respuesta_correcta": "Leonardo da Vinci"
+        },
+        {
+          "pregunta": "¿Quién escribió 'Romeo y Julieta'?",
+          "opciones": ["Charles Dickens", "Jane Austen", "William Shakespeare", "Fyodor Dostoevsky"],
+          "respuesta_correcta": "William Shakespeare"
+        },
+        {
+          "pregunta": "¿Qué famoso escultor creó 'El Pensador'?",
+          "opciones": ["Michelangelo", "Auguste Rodin", "Donatello", "Antonio Canova"],
+          "respuesta_correcta": "Auguste Rodin"
+        },
+        {
+          "pregunta": "¿Quién es el autor de 'La última cena'?",
+          "opciones": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Rembrandt"],
+          "respuesta_correcta": "Leonardo da Vinci"
+        },
+        {
+          "pregunta": "¿Quién escribió 'Orgullo y prejuicio'?",
+          "opciones": ["George Orwell", "Jane Austen", "Charles Dickens", "Fyodor Dostoevsky"],
+          "respuesta_correcta": "Jane Austen"
+        }
+      ],
+      "medio": [
+        {
+          "pregunta": "¿Quién pintó 'La noche estrellada'?",
+          "opciones": ["Pablo Picasso", "Leonardo da Vinci", "Vincent van Gogh", "Rembrandt"],
+          "respuesta_correcta": "Vincent van Gogh"
+        },
+        {
+          "pregunta": "¿Qué escritor es conocido por su obra 'Cien años de soledad'?",
+          "opciones": ["Gabriel García Márquez", "Mario Vargas Llosa", "Pablo Neruda", "Jorge Luis Borges"],
+          "respuesta_correcta": "Gabriel García Márquez"
+        },
+        {
+          "pregunta": "¿Qué escultor renombrado creó 'David'?",
+          "opciones": ["Michelangelo", "Auguste Rodin", "Donatello", "Antonio Canova"],
+          "respuesta_correcta": "Michelangelo"
+        },
+        {
+          "pregunta": "¿Quién pintó 'Los girasoles'?",
+          "opciones": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Rembrandt"],
+          "respuesta_correcta": "Vincent van Gogh"
+        },
+        {
+          "pregunta": "¿Quién escribió 'Crimen y castigo'?",
+          "opciones": ["George Orwell", "Jane Austen", "Fyodor Dostoevsky", "Leo Tolstoy"],
+          "respuesta_correcta": "Fyodor Dostoevsky"
+        }
+      ],
+      "dificil": [
+        {
+          "pregunta": "¿Qué artista español es conocido por su estilo surrealista y pintó 'La persistencia de la memoria'?",
+          "opciones": ["Pablo Picasso", "Joan Miró", "Salvador Dalí", "Antonio Gaudí"],
+          "respuesta_correcta": "Salvador Dalí"
+        },
+        {
+          "pregunta": "¿Quién es el autor de la novela épica 'Guerra y paz'?",
+          "opciones": ["Gabriel García Márquez", "Leo Tolstoy", "Fyodor Dostoevsky", "Charles Dickens"],
+          "respuesta_correcta": "Leo Tolstoy"
+        },
+        {
+          "pregunta": "¿Qué escultor italiano es conocido por su 'David' en mármol blanco?",
+          "opciones": ["Michelangelo", "Auguste Rodin", "Donatello", "Antonio Canova"],
+          "respuesta_correcta": "Michelangelo"
+        },
+        {
+          "pregunta": "¿Quién pintó 'La noche estrellada sobre el Ródano'?",
+          "opciones": ["Pablo Picasso", "Leonardo da Vinci", "Vincent van Gogh", "Rembrandt"],
+          "respuesta_correcta": "Vincent van Gogh"
+        },
+        {
+          "pregunta": "¿Quién escribió '1984'?",
+          "opciones": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "Arthur C. Clarke"],
+          "respuesta_correcta": "George Orwell"
+        }
+      ],
+      "experto": [
+        {
+          "pregunta": "¿Qué pintor italiano del Renacimiento es conocido por su obra 'El nacimiento de Venus'?",
+          "opciones": ["Leonardo da Vinci", "Sandro Botticelli", "Rafael", "Tiziano"],
+          "respuesta_correcta": "Sandro Botticelli"
+        },
+        {
+          "pregunta": "¿Quién escribió 'En busca del tiempo perdido'?",
+          "opciones": ["Marcel Proust", "James Joyce", "Franz Kafka", "F. Scott Fitzgerald"],
+          "respuesta_correcta": "Marcel Proust"
+        },
+        {
+          "pregunta": "¿Qué escultor francés es conocido por su obra 'El pensador'?",
+          "opciones": ["Auguste Rodin", "Michelangelo", "Auguste Renoir", "Camille Claudel"],
+          "respuesta_correcta": "Auguste Rodin"
+        },
+        {
+          "pregunta": "¿Quién pintó 'La persistencia de la memoria'?",
+          "opciones": ["Pablo Picasso", "Salvador Dalí", "Vincent van Gogh", "René Magritte"],
+          "respuesta_correcta": "Salvador Dalí"
+        },
+        {
+          "pregunta": "¿Quién escribió 'Matar un ruiseñor'?",
+          "opciones": ["Harper Lee", "John Steinbeck", "Mark Twain", "William Faulkner"],
+          "respuesta_correcta": "Harper Lee"
+        }
+      ]
+    }
+  }
+  

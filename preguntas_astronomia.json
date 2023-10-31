@@ -1,0 +1,212 @@
+{
+    "astronomia": {
+        "facil": [
+            {
+                "pregunta": "¿Cuál es el planeta más cercano al Sol en nuestro sistema solar?",
+                "opciones": [
+                    "Marte",
+                    "Venus",
+                    "Júpiter",
+                    "Mercurio"
+                ],
+                "respuesta_correcta": "Mercurio"
+            },
+            {
+                "pregunta": "¿Cuál es la estrella más cercana a la Tierra?",
+                "opciones": [
+                    "Sirio",
+                    "Alpha Centauri",
+                    "Betelgeuse",
+                    "Sol"
+                ],
+                "respuesta_correcta": "Sol"
+            },
+            {
+                "pregunta": "¿Qué fenómeno astronómico se produce cuando la Luna se interpone entre la Tierra y el Sol?",
+                "opciones": [
+                    "Eclipse lunar",
+                    "Cometa",
+                    "Nebulosa",
+                    "Eclipse solar"
+                ],
+                "respuesta_correcta": "Eclipse solar"
+            },
+            {
+                "pregunta": "¿Cuál es la galaxia más cercana a la Vía Láctea?",
+                "opciones": [
+                    "Andrómeda",
+                    "Centauro A",
+                    "Sombrero",
+                    "Canis Major Dwarf"
+                ],
+                "respuesta_correcta": "Andrómeda"
+            },
+            {
+                "pregunta": "¿Qué tipo de cuerpo celeste se quema al entrar en la atmósfera de la Tierra y produce una estela luminosa?",
+                "opciones": [
+                    "Asteroide",
+                    "Cometa",
+                    "Meteorito",
+                    "Planeta"
+                ],
+                "respuesta_correcta": "Meteorito"
+            }
+        ],
+        "medio": [
+            {
+                "pregunta": "¿Cuál es la teoría que describe la expansión del universo a partir de un estado inicial de alta densidad y temperatura?",
+                "opciones": [
+                    "Teoría de cuerdas",
+                    "Teoría del caos",
+                    "Teoría del Big Bang",
+                    "Teoría de la relatividad"
+                ],
+                "respuesta_correcta": "Teoría del Big Bang"
+            },
+            {
+                "pregunta": "¿Qué nombre recibe el proceso de fusión nuclear en el núcleo de una estrella que genera energía?",
+                "opciones": [
+                    "Fotosíntesis",
+                    "Fisión nuclear",
+                    "Efecto invernadero",
+                    "Fusión nuclear"
+                ],
+                "respuesta_correcta": "Fusión nuclear"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre de la luna más grande de Júpiter?",
+                "opciones": [
+                    "Luna de Calisto",
+                    "Luna de Io",
+                    "Luna de Europa",
+                    "Luna de Ganímedes"
+                ],
+                "respuesta_correcta": "Luna de Ganímedes"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del telescopio espacial lanzado por la NASA en 1990?",
+                "opciones": [
+                    "Telescopio Hubble",
+                    "Telescopio Kepler",
+                    "Telescopio James Webb",
+                    "Telescopio Spitzer"
+                ],
+                "respuesta_correcta": "Telescopio Hubble"
+            },
+            {
+                "pregunta": "¿Qué tipo de estrella se forma a partir de la explosión de una estrella masiva?",
+                "opciones": [
+                    "Enana blanca",
+                    "Estrella de neutrones",
+                    "Agujero negro",
+                    "Supernova"
+                ],
+                "respuesta_correcta": "Supernova"
+            }
+        ],
+        "dificil": [
+            {
+                "pregunta": "¿Cuál es la teoría que predice la existencia de partículas subatómicas llamadas neutrinos?",
+                "opciones": [
+                    "Teoría de la relatividad",
+                    "Teoría de la gran unificación",
+                    "Teoría de cuerdas",
+                    "Teoría de la electrodinámica cuántica"
+                ],
+                "respuesta_correcta": "Teoría de la gran unificación"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del proceso de colapso gravitatorio de una estrella masiva que resulta en un agujero negro?",
+                "opciones": [
+                    "Fisión nuclear",
+                    "Fusión nuclear",
+                    "Colapso de estrella",
+                    "Colapso gravitatorio"
+                ],
+                "respuesta_correcta": "Colapso gravitatorio"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre de la misión espacial de la NASA que aterrizó en Marte en 2012 para buscar signos de vida?",
+                "opciones": [
+                    "Voyager",
+                    "Curiosity",
+                    "Phoenix",
+                    "Spirit"
+                ],
+                "respuesta_correcta": "Curiosity"
+            },
+            {
+                "pregunta": "¿Cuál es la distancia aproximada entre la Tierra y la Luna en kilómetros?",
+                "opciones": [
+                    "238,855 km",
+                    "1,000,000 km",
+                    "149,600,000 km",
+                    "384,400 km"
+                ],
+                "respuesta_correcta": "384,400 km"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre de la región del espacio-tiempo que rodea un agujero negro y de la cual nada puede escapar?",
+                "opciones": [
+                    "Efecto Doppler",
+                    "Horizonte de sucesos",
+                    "Nube de Oort",
+                    "Cinturón de Kuiper"
+                ],
+                "respuesta_correcta": "Horizonte de sucesos"
+            }
+        ],
+        "experto": [
+            {
+                "pregunta": "¿Cuál es el nombre de la galaxia que alberga un agujero negro supermasivo en su centro y se encuentra en el corazón del cúmulo de la Virgo?",
+                "opciones": [
+                    "Vía Láctea",
+                    "Andrómeda",
+                    "Sombrero",
+                    "M87"
+                ],
+                "respuesta_correcta": "M87"
+            },
+            {
+                "pregunta": "¿Qué teoría propuesta por Albert Einstein describe la gravitación como una curvatura del espacio-tiempo?",
+                "opciones": [
+                    "Teoría de cuerdas",
+                    "Teoría del Big Bang",
+                    "Teoría de la relatividad general",
+                    "Teoría de la gran unificación"
+                ],
+                "respuesta_correcta": "Teoría de la relatividad general"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre de la primera sonda espacial en alcanzar Plutón en 2015?",
+                "opciones": [
+                    "Voyager 1",
+                    "New Horizons",
+                    "Cassini",
+                    "Pioneer 10"
+                ],
+                "respuesta_correcta": "New Horizons"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del fenómeno en el que la luz de una estrella es doblada por la gravedad de un objeto masivo?",
+                "opciones": [
+                    "Refracción estelar",
+                    "Efecto Doppler",
+                    "Lente gravitacional",
+                    "Radiación de Hawking"
+                ],
+                "respuesta_correcta": "Lente gravitacional"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre de la sonda espacial de la NASA que está en camino a estudiar el sistema solar exterior y más allá?",
+                "opciones": [
+                    "Voyager 2",
+                    "Juno",
+                    "Parker Solar Probe",
+                    "Voyager 1"
+                ],
+                "respuesta_correcta": "Parker Solar Probe"
+            }
+        ]
+    }
+}

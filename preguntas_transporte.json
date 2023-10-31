@@ -1,0 +1,212 @@
+{
+    "transporte": {
+        "facil": [
+            {
+                "pregunta": "¿Cuál es el medio de transporte más utilizado en las grandes ciudades para desplazamientos cortos?",
+                "opciones": [
+                    "Automóvil",
+                    "Bicicleta",
+                    "Autobús",
+                    "Tren"
+                ],
+                "respuesta_correcta": "Bicicleta"
+            },
+            {
+                "pregunta": "¿Qué tipo de vehículo tiene una sola rueda y se utiliza para desplazamientos personales en zonas urbanas?",
+                "opciones": [
+                    "Bicicleta",
+                    "Patineta",
+                    "Monociclo",
+                    "Motocicleta"
+                ],
+                "respuesta_correcta": "Monociclo"
+            },
+            {
+                "pregunta": "¿Cuál es el avión comercial más grande del mundo?",
+                "opciones": [
+                    "Boeing 747",
+                    "Airbus A380",
+                    "Boeing 787",
+                    "Embraer E-Jet"
+                ],
+                "respuesta_correcta": "Airbus A380"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del sistema de transporte público subterráneo en Londres?",
+                "opciones": [
+                    "Metro",
+                    "Subway",
+                    "Tube",
+                    "Tren ligero"
+                ],
+                "respuesta_correcta": "Tube"
+            },
+            {
+                "pregunta": "¿Cuál es la marca de automóviles conocida por sus vehículos deportivos de lujo, como el 911?",
+                "opciones": [
+                    "Ford",
+                    "Toyota",
+                    "Porsche",
+                    "Volkswagen"
+                ],
+                "respuesta_correcta": "Porsche"
+            }
+        ],
+        "medio": [
+            {
+                "pregunta": "¿Cuál es el medio de transporte ferroviario de alta velocidad utilizado en Japón?",
+                "opciones": [
+                    "Metro",
+                    "Shinkansen",
+                    "Tren ligero",
+                    "Monorraíl"
+                ],
+                "respuesta_correcta": "Shinkansen"
+            },
+            {
+                "pregunta": "¿Qué tipo de vehículo todoterreno es utilizado en regiones desérticas y tiene neumáticos de gran tamaño?",
+                "opciones": [
+                    "Cuatrimoto",
+                    "Buggie",
+                    "Jeep",
+                    "Camión"
+                ],
+                "respuesta_correcta": "Cuatrimoto"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del avión supersónico que operó comercialmente entre 1976 y 2003?",
+                "opciones": [
+                    "Concorde",
+                    "Boeing 747",
+                    "Airbus A380",
+                    "Lockheed L-1011 TriStar"
+                ],
+                "respuesta_correcta": "Concorde"
+            },
+            {
+                "pregunta": "¿Cuál es el vehículo espacial utilizado por la NASA para llevar astronautas a la Estación Espacial Internacional?",
+                "opciones": [
+                    "Saturn V",
+                    "SpaceX Dragon",
+                    "Apollo",
+                    "Shuttle"
+                ],
+                "respuesta_correcta": "SpaceX Dragon"
+            },
+            {
+                "pregunta": "¿Cuál es la marca de automóviles estadounidense conocida por sus vehículos eléctricos como el Model S?",
+                "opciones": [
+                    "Chevrolet",
+                    "Ford",
+                    "Tesla",
+                    "Dodge"
+                ],
+                "respuesta_correcta": "Tesla"
+            }
+        ],
+        "dificil": [
+            {
+                "pregunta": "¿Cuál es el tren de alta velocidad que conecta a París con Londres bajo el Canal de la Mancha?",
+                "opciones": [
+                    "TGV",
+                    "Eurostar",
+                    "ICE",
+                    "Shinkansen"
+                ],
+                "respuesta_correcta": "Eurostar"
+            },
+            {
+                "pregunta": "¿Qué tipo de avión se utiliza para el transporte presidencial de Estados Unidos?",
+                "opciones": [
+                    "Airbus A380",
+                    "Boeing 747",
+                    "Air Force One",
+                    "Concorde"
+                ],
+                "respuesta_correcta": "Air Force One"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del sistema de transporte público subterráneo en Nueva York?",
+                "opciones": [
+                    "Metro",
+                    "Subway",
+                    "Tube",
+                    "Tren ligero"
+                ],
+                "respuesta_correcta": "Subway"
+            },
+            {
+                "pregunta": "¿Cuál es el vehículo todoterreno utilizado por el ejército de Estados Unidos en diversas variantes desde la Segunda Guerra Mundial?",
+                "opciones": [
+                    "Jeep",
+                    "Humvee",
+                    "Land Rover",
+                    "Toyota Land Cruiser"
+                ],
+                "respuesta_correcta": "Jeep"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre de la agencia espacial europea que opera cohetes y lanzadores espaciales?",
+                "opciones": [
+                    "NASA",
+                    "Roscosmos",
+                    "ESA",
+                    "JAXA"
+                ],
+                "respuesta_correcta": "ESA"
+            }
+        ],
+        "experto": [
+            {
+                "pregunta": "¿Cuál es el nombre del tren de alta velocidad chino que conecta Beijing y Shanghái?",
+                "opciones": [
+                    "Shinkansen",
+                    "TGV",
+                    "Maglev",
+                    "Fuxing"
+                ],
+                "respuesta_correcta": "Fuxing"
+            },
+            {
+                "pregunta": "¿Qué aerolínea es conocida por operar el avión supersónico Concorde en rutas comerciales?",
+                "opciones": [
+                    "British Airways",
+                    "Air France",
+                    "Lufthansa",
+                    "Qantas"
+                ],
+                "respuesta_correcta": "British Airways"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del vehículo todoterreno ligero utilizado por el ejército de Estados Unidos y otros países?",
+                "opciones": [
+                    "Humvee",
+                    "Jeep",
+                    "Land Rover",
+                    "Toyota Land Cruiser"
+                ],
+                "respuesta_correcta": "Humvee"
+            },
+            {
+                "pregunta": "¿Cuál es el sistema de transporte público subterráneo más profundo del mundo, ubicado en la ciudad de San Petersburgo, Rusia?",
+                "opciones": [
+                    "Metro de Nueva York",
+                    "Metro de Londres",
+                    "Metro de París",
+                    "Metro de San Petersburgo"
+                ],
+                "respuesta_correcta": "Metro de San Petersburgo"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre de la primera misión tripulada a la Luna de la NASA?",
+                "opciones": [
+                    "Apollo 11",
+                    "Apollo 13",
+                    "Gemini 4",
+                    "Mercury 7"
+                ],
+                "respuesta_correcta": "Apollo 11"
+            }
+        ]
+    }
+}

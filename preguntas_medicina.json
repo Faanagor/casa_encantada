@@ -1,0 +1,212 @@
+{
+    "medicina": {
+        "facil": [
+            {
+                "pregunta": "¿Cuál es el órgano más grande del cuerpo humano?",
+                "opciones": [
+                    "Cerebro",
+                    "Pulmón",
+                    "Piel",
+                    "Corazón"
+                ],
+                "respuesta_correcta": "Piel"
+            },
+            {
+                "pregunta": "¿Cuántos huesos tiene el adulto humano promedio?",
+                "opciones": [
+                    "206",
+                    "212",
+                    "190",
+                    "220"
+                ],
+                "respuesta_correcta": "206"
+            },
+            {
+                "pregunta": "¿Qué órgano se encarga de bombear la sangre a través del cuerpo?",
+                "opciones": [
+                    "Hígado",
+                    "Cerebro",
+                    "Corazón",
+                    "Riñón"
+                ],
+                "respuesta_correcta": "Corazón"
+            },
+            {
+                "pregunta": "¿Cuál es la función principal de los pulmones?",
+                "opciones": [
+                    "Digestión",
+                    "Respiración",
+                    "Circulación",
+                    "Excreción"
+                ],
+                "respuesta_correcta": "Respiración"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del tejido que cubre las puntas de los huesos en las articulaciones?",
+                "opciones": [
+                    "Cartílago",
+                    "Músculo",
+                    "Piel",
+                    "Tendón"
+                ],
+                "respuesta_correcta": "Cartílago"
+            }
+        ],
+        "medio": [
+            {
+                "pregunta": "¿Cuál es el nombre del proceso mediante el cual el cuerpo convierte los alimentos en energía?",
+                "opciones": [
+                    "Digestión",
+                    "Respiración",
+                    "Metabolismo",
+                    "Excreción"
+                ],
+                "respuesta_correcta": "Metabolismo"
+            },
+            {
+                "pregunta": "¿Qué sistema del cuerpo humano regula la temperatura y elimina desechos a través del sudor?",
+                "opciones": [
+                    "Sistema circulatorio",
+                    "Sistema nervioso",
+                    "Sistema endocrino",
+                    "Sistema excretor"
+                ],
+                "respuesta_correcta": "Sistema excretor"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre de la hormona que regula los niveles de glucosa en sangre?",
+                "opciones": [
+                    "Insulina",
+                    "Adrenalina",
+                    "Melatonina",
+                    "Dopamina"
+                ],
+                "respuesta_correcta": "Insulina"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del hueso que forma la parte superior del cráneo?",
+                "opciones": [
+                    "Húmero",
+                    "Fémur",
+                    "Cráneo",
+                    "Pelvis"
+                ],
+                "respuesta_correcta": "Cráneo"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre de la válvula que separa el ventrículo izquierdo de la arteria principal que lleva la sangre al cuerpo?",
+                "opciones": [
+                    "Válvula tricúspide",
+                    "Válvula mitral",
+                    "Válvula aórtica",
+                    "Válvula pulmonar"
+                ],
+                "respuesta_correcta": "Válvula aórtica"
+            }
+        ],
+        "dificil": [
+            {
+                "pregunta": "¿Cuál es la principal función del sistema linfático en el cuerpo humano?",
+                "opciones": [
+                    "Digestión",
+                    "Respiración",
+                    "Defensa inmunológica",
+                    "Circulación"
+                ],
+                "respuesta_correcta": "Defensa inmunológica"
+            },
+            {
+                "pregunta": "¿Cuál es la glándula que regula el metabolismo en el cuerpo humano?",
+                "opciones": [
+                    "Glándula tiroides",
+                    "Glándula pituitaria",
+                    "Glándula suprarrenal",
+                    "Glándula pineal"
+                ],
+                "respuesta_correcta": "Glándula tiroides"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del proceso de coagulación de la sangre para detener el sangrado?",
+                "opciones": [
+                    "Vasodilatación",
+                    "Vasopresina",
+                    "Hemostasia",
+                    "Hemólisis"
+                ],
+                "respuesta_correcta": "Hemostasia"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del músculo más grande del cuerpo humano?",
+                "opciones": [
+                    "Cuádriceps",
+                    "Deltoides",
+                    "Bíceps",
+                    "Pectoral mayor"
+                ],
+                "respuesta_correcta": "Cuádriceps"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del tejido que conecta los músculos con los huesos?",
+                "opciones": [
+                    "Ligamento",
+                    "Tendón",
+                    "Cartílago",
+                    "Piel"
+                ],
+                "respuesta_correcta": "Tendón"
+            }
+        ],
+        "experto": [
+            {
+                "pregunta": "¿Cuál es el nombre de la glándula que produce la insulina y el glucagón en el cuerpo humano?",
+                "opciones": [
+                    "Glándula suprarrenal",
+                    "Páncreas",
+                    "Glándula paratiroides",
+                    "Glándula pineal"
+                ],
+                "respuesta_correcta": "Páncreas"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del proceso mediante el cual el cuerpo descompone los glóbulos rojos viejos?",
+                "opciones": [
+                    "Fagocitosis",
+                    "Eritropoyesis",
+                    "Hemólisis",
+                    "Apoptosis"
+                ],
+                "respuesta_correcta": "Fagocitosis"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del proceso de transmisión de información entre las células nerviosas?",
+                "opciones": [
+                    "Sinapsis",
+                    "Diálisis",
+                    "Osmosis",
+                    "Difusión"
+                ],
+                "respuesta_correcta": "Sinapsis"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del área del cerebro responsable del lenguaje y la comprensión?",
+                "opciones": [
+                    "Corteza cerebral",
+                    "Cerebelo",
+                    "Hipotálamo",
+                    "Tallo cerebral"
+                ],
+                "respuesta_correcta": "Corteza cerebral"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre de la enfermedad autoinmune que afecta las articulaciones y causa inflamación crónica?",
+                "opciones": [
+                    "Asma",
+                    "Artritis reumatoide",
+                    "Esclerosis múltiple",
+                    "Lupus eritematoso sistémico"
+                ],
+                "respuesta_correcta": "Artritis reumatoide"
+            }
+        ]
+    }
+}

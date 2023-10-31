@@ -1,0 +1,212 @@
+{
+    "deportes": {
+        "facil": [
+            {
+                "pregunta": "¿En qué deporte se juega en un campo llamado 'cancha de tenis'?",
+                "opciones": [
+                    "Tenis",
+                    "Fútbol",
+                    "Baloncesto",
+                    "Golf"
+                ],
+                "respuesta_correcta": "Tenis"
+            },
+            {
+                "pregunta": "¿Cuál es el deporte más popular en Brasil?",
+                "opciones": [
+                    "Fútbol",
+                    "Baloncesto",
+                    "Béisbol",
+                    "Hockey"
+                ],
+                "respuesta_correcta": "Fútbol"
+            },
+            {
+                "pregunta": "¿En qué deporte se utiliza un bate para golpear una pelota?",
+                "opciones": [
+                    "Fútbol",
+                    "Baloncesto",
+                    "Béisbol",
+                    "Golf"
+                ],
+                "respuesta_correcta": "Béisbol"
+            },
+            {
+                "pregunta": "¿Cuál es el evento principal en los Juegos Olímpicos de Invierno?",
+                "opciones": [
+                    "Patinaje artístico",
+                    "Esquí alpino",
+                    "Natación",
+                    "Atletismo"
+                ],
+                "respuesta_correcta": "Esquí alpino"
+            },
+            {
+                "pregunta": "¿En qué deporte se utiliza una raqueta para golpear una pelota hacia una pared frontal?",
+                "opciones": [
+                    "Squash",
+                    "Paddle",
+                    "Tenis",
+                    "Bádminton"
+                ],
+                "respuesta_correcta": "Squash"
+            }
+        ],
+        "medio": [
+            {
+                "pregunta": "¿Cuál es el país de origen de la gimnasta olímpica Simone Biles?",
+                "opciones": [
+                    "Estados Unidos",
+                    "Rusia",
+                    "China",
+                    "Rumania"
+                ],
+                "respuesta_correcta": "Estados Unidos"
+            },
+            {
+                "pregunta": "¿Cuál es el deporte que se juega en un campo llamado 'octágono'?",
+                "opciones": [
+                    "Fútbol americano",
+                    "Baloncesto",
+                    "Artes marciales mixtas (MMA)",
+                    "Cricket"
+                ],
+                "respuesta_correcta": "Artes marciales mixtas (MMA)"
+            },
+            {
+                "pregunta": "¿Cuál es el equipo de fútbol más exitoso de la historia de la Copa del Mundo de la FIFA?",
+                "opciones": [
+                    "Brasil",
+                    "Alemania",
+                    "Italia",
+                    "Argentina"
+                ],
+                "respuesta_correcta": "Brasil"
+            },
+            {
+                "pregunta": "¿Cuál es el deporte en el que se lanza una pequeña bola blanca hacia un objetivo llamado 'jack'?",
+                "opciones": [
+                    "Golf",
+                    "Bolos",
+                    "Petanca",
+                    "Croquet"
+                ],
+                "respuesta_correcta": "Petanca"
+            },
+            {
+                "pregunta": "¿Cuál es el récord mundial en el salto de altura en atletismo (hombres)?",
+                "opciones": [
+                    "2,43 metros",
+                    "2,40 metros",
+                    "2,39 metros",
+                    "2,38 metros"
+                ],
+                "respuesta_correcta": "2,45 metros"
+            }
+        ],
+        "dificil": [
+            {
+                "pregunta": "¿Quién tiene el récord mundial en los 100 metros lisos (hombres)?",
+                "opciones": [
+                    "Usain Bolt",
+                    "Carl Lewis",
+                    "Jesse Owens",
+                    "Asafa Powell"
+                ],
+                "respuesta_correcta": "Usain Bolt"
+            },
+            {
+                "pregunta": "¿En qué deporte compiten los equipos en la Copa Davis?",
+                "opciones": [
+                    "Fútbol",
+                    "Baloncesto",
+                    "Tenis",
+                    "Béisbol"
+                ],
+                "respuesta_correcta": "Tenis"
+            },
+            {
+                "pregunta": "¿Cuál es el primer deporte en el que se incluyeron las mujeres en los Juegos Olímpicos modernos?",
+                "opciones": [
+                    "Atletismo",
+                    "Tenis",
+                    "Golf",
+                    "Esgrima"
+                ],
+                "respuesta_correcta": "Tenis"
+            },
+            {
+                "pregunta": "¿Cuál es el deporte que se juega en una cancha de hielo y se lanzan piedras hacia un objetivo circular?",
+                "opciones": [
+                    "Hockey sobre hielo",
+                    "Patinaje artístico",
+                    "Curling",
+                    "Esquí de fondo"
+                ],
+                "respuesta_correcta": "Curling"
+            },
+            {
+                "pregunta": "¿Quién es considerado el 'Rey' del baloncesto?",
+                "opciones": [
+                    "Michael Jordan",
+                    "LeBron James",
+                    "Kobe Bryant",
+                    "Magic Johnson"
+                ],
+                "respuesta_correcta": "Michael Jordan"
+            }
+        ],
+        "experto": [
+            {
+                "pregunta": "¿Cuál es el récord mundial en el salto de longitud (hombres)?",
+                "opciones": [
+                    "8,95 metros",
+                    "8,90 metros",
+                    "8,87 metros",
+                    "8,84 metros"
+                ],
+                "respuesta_correcta": "8,95 metros"
+            },
+            {
+                "pregunta": "¿Cuál es el evento más largo en el decatlón?",
+                "opciones": [
+                    "100 metros",
+                    "Salto de altura",
+                    "Lanzamiento de disco",
+                    "1,500 metros"
+                ],
+                "respuesta_correcta": "1,500 metros"
+            },
+            {
+                "pregunta": "¿Cuál es el país de origen del futbolista Diego Maradona?",
+                "opciones": [
+                    "Brasil",
+                    "Argentina",
+                    "Uruguay",
+                    "España"
+                ],
+                "respuesta_correcta": "Argentina"
+            },
+            {
+                "pregunta": "¿Quién es el nadador con más medallas de oro en la historia de los Juegos Olímpicos?",
+                "opciones": [
+                    "Michael Phelps",
+                    "Mark Spitz",
+                    "Ian Thorpe",
+                    "Ryan Lochte"
+                ],
+                "respuesta_correcta": "Michael Phelps"
+            },
+            {
+                "pregunta": "¿Cuál es el deporte que se juega en una cancha llamada 'trinquete'?",
+                "opciones": [
+                    "Pelota vasca",
+                    "Tenis",
+                    "Raquetbol",
+                    "Paddle"
+                ],
+                "respuesta_correcta": "Pelota vasca"
+            }
+        ]
+    }
+}

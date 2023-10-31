@@ -1,0 +1,212 @@
+{
+    "politica": {
+        "facil": [
+            {
+                "pregunta": "¿Quién fue el primer presidente de Estados Unidos?",
+                "opciones": [
+                    "Thomas Jefferson",
+                    "John Adams",
+                    "George Washington",
+                    "Benjamin Franklin"
+                ],
+                "respuesta_correcta": "George Washington"
+            },
+            {
+                "pregunta": "¿Cuál es la capital de Francia?",
+                "opciones": [
+                    "Londres",
+                    "Berlín",
+                    "París",
+                    "Roma"
+                ],
+                "respuesta_correcta": "París"
+            },
+            {
+                "pregunta": "¿En qué país se encuentra la Gran Muralla China?",
+                "opciones": [
+                    "Corea del Sur",
+                    "Japón",
+                    "China",
+                    "Vietnam"
+                ],
+                "respuesta_correcta": "China"
+            },
+            {
+                "pregunta": "¿Cuál es la bandera de Canadá?",
+                "opciones": [
+                    "Roja con una hoja de arce blanca",
+                    "Azul con estrellas blancas",
+                    "Roja con una estrella blanca",
+                    "Verde con un trébol dorado"
+                ],
+                "respuesta_correcta": "Roja con una hoja de arce blanca"
+            },
+            {
+                "pregunta": "¿Quién fue el líder de la Revolución Cubana?",
+                "opciones": [
+                    "Fidel Castro",
+                    "Ernesto 'Che' Guevara",
+                    "Rafael Correa",
+                    "Hugo Chávez"
+                ],
+                "respuesta_correcta": "Fidel Castro"
+            }
+        ],
+        "medio": [
+            {
+                "pregunta": "¿Quién fue el primer presidente de Sudáfrica después del apartheid?",
+                "opciones": [
+                    "Nelson Mandela",
+                    "F.W. de Klerk",
+                    "Thabo Mbeki",
+                    "Jacob Zuma"
+                ],
+                "respuesta_correcta": "Nelson Mandela"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del líder soviético que implementó la política de 'glasnost' y 'perestroika'?",
+                "opciones": [
+                    "Nikita Jrushchov",
+                    "Brezhnev",
+                    "Mikhail Gorbachev",
+                    "Vladimir Putin"
+                ],
+                "respuesta_correcta": "Mikhail Gorbachev"
+            },
+            {
+                "pregunta": "¿Cuál es la bandera de Australia?",
+                "opciones": [
+                    "Roja con una hoja de arce blanca",
+                    "Azul con estrellas blancas",
+                    "Roja con una estrella blanca",
+                    "Azul con la Cruz del Sur"
+                ],
+                "respuesta_correcta": "Azul con la Cruz del Sur"
+            },
+            {
+                "pregunta": "¿Quién fue el líder de la Revolución Rusa y el primer líder de la Unión Soviética?",
+                "opciones": [
+                    "Vladimir Lenin",
+                    "Joseph Stalin",
+                    "Leon Trotsky",
+                    "Nikita Jrushchov"
+                ],
+                "respuesta_correcta": "Vladimir Lenin"
+            },
+            {
+                "pregunta": "¿Quién fue el primer presidente de México?",
+                "opciones": [
+                    "Benito Juárez",
+                    "Miguel Hidalgo",
+                    "Emiliano Zapata",
+                    "Porfirio Díaz"
+                ],
+                "respuesta_correcta": "Benito Juárez"
+            }
+        ],
+        "dificil": [
+            {
+                "pregunta": "¿Cuál es el nombre del fundador y líder de la Revolución de octubre en Rusia?",
+                "opciones": [
+                    "Vladimir Lenin",
+                    "Leon Trotsky",
+                    "Joseph Stalin",
+                    "Nikita Jrushchov"
+                ],
+                "respuesta_correcta": "Vladimir Lenin"
+            },
+            {
+                "pregunta": "¿Quién fue el primer presidente de la República Popular China?",
+                "opciones": [
+                    "Sun Yat-sen",
+                    "Chiang Kai-shek",
+                    "Mao Zedong",
+                    "Deng Xiaoping"
+                ],
+                "respuesta_correcta": "Mao Zedong"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre de la bandera de Brasil?",
+                "opciones": [
+                    "Verde, blanco y rojo",
+                    "Roja con una hoja de arce blanca",
+                    "Azul, blanco y rojo",
+                    "Verde, amarillo y azul"
+                ],
+                "respuesta_correcta": "Verde, amarillo y azul"
+            },
+            {
+                "pregunta": "¿Quién fue el primer presidente de Sudáfrica en ser elegido democráticamente?",
+                "opciones": [
+                    "F.W. de Klerk",
+                    "Nelson Mandela",
+                    "Thabo Mbeki",
+                    "Jacob Zuma"
+                ],
+                "respuesta_correcta": "Nelson Mandela"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del líder político que lideró la independencia de la India?",
+                "opciones": [
+                    "Mohandas Gandhi",
+                    "Jawaharlal Nehru",
+                    "Indira Gandhi",
+                    "Rajiv Gandhi"
+                ],
+                "respuesta_correcta": "Mohandas Gandhi"
+            }
+        ],
+        "experto": [
+            {
+                "pregunta": "¿Quién fue el primer presidente de la Federación Rusa después de la disolución de la Unión Soviética?",
+                "opciones": [
+                    "Boris Yeltsin",
+                    "Vladimir Putin",
+                    "Mikhail Gorbachev",
+                    "Dmitry Medvedev"
+                ],
+                "respuesta_correcta": "Boris Yeltsin"
+            },
+            {
+                "pregunta": "¿En qué país se llevó a cabo la Revolución Cultural liderada por Mao Zedong?",
+                "opciones": [
+                    "Rusia",
+                    "Cuba",
+                    "China",
+                    "Corea del Norte"
+                ],
+                "respuesta_correcta": "China"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del líder político que desempeñó un papel importante en la independencia de Sudáfrica y recibió el Premio Nobel de la Paz?",
+                "opciones": [
+                    "F.W. de Klerk",
+                    "Steve Biko",
+                    "Desmond Tutu",
+                    "Thabo Mbeki"
+                ],
+                "respuesta_correcta": "Desmond Tutu"
+            },
+            {
+                "pregunta": "¿En qué país se encuentra la tumba de Napoleón Bonaparte?",
+                "opciones": [
+                    "Francia",
+                    "Italia",
+                    "Inglaterra",
+                    "Rusia"
+                ],
+                "respuesta_correcta": "Francia"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del líder político que encabezó la Revolución Cubana junto a Fidel Castro?",
+                "opciones": [
+                    "Ernesto 'Che' Guevara",
+                    "Raúl Castro",
+                    "Hugo Chávez",
+                    "Camilo Cienfuegos"
+                ],
+                "respuesta_correcta": "Ernesto 'Che' Guevara"
+            }
+        ]
+    }
+}

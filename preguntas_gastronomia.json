@@ -1,0 +1,212 @@
+{
+    "gastronomia": {
+        "facil": [
+            {
+                "pregunta": "¿Cuál es el ingrediente principal de la pizza Margarita?",
+                "opciones": [
+                    "Tomate",
+                    "Pollo",
+                    "Jamón",
+                    "Pepino"
+                ],
+                "respuesta_correcta": "Tomate"
+            },
+            {
+                "pregunta": "¿En qué país se originó el sushi?",
+                "opciones": [
+                    "Italia",
+                    "China",
+                    "Japón",
+                    "México"
+                ],
+                "respuesta_correcta": "Japón"
+            },
+            {
+                "pregunta": "¿Qué fruta es conocida como 'el oro amarillo'?",
+                "opciones": [
+                    "Banana",
+                    "Mango",
+                    "Naranja",
+                    "Plátano"
+                ],
+                "respuesta_correcta": "Mango"
+            },
+            {
+                "pregunta": "¿Cuál es el plato típico de México hecho con tortillas de maíz dobladas y rellenas?",
+                "opciones": [
+                    "Taco",
+                    "Pizza",
+                    "Sushi",
+                    "Hamburguesa"
+                ],
+                "respuesta_correcta": "Taco"
+            },
+            {
+                "pregunta": "¿Cuál es el ingrediente principal del guacamole?",
+                "opciones": [
+                    "Tomate",
+                    "Aguacate",
+                    "Cebolla",
+                    "Zanahoria"
+                ],
+                "respuesta_correcta": "Aguacate"
+            }
+        ],
+        "medio": [
+            {
+                "pregunta": "¿Cuál es el plato italiano que consiste en finas capas de pasta intercaladas con carne y salsa de tomate?",
+                "opciones": [
+                    "Lasagna",
+                    "Paella",
+                    "Sushi",
+                    "Taco"
+                ],
+                "respuesta_correcta": "Lasagna"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre de la fruta tropical de pulpa roja y sabor dulce?",
+                "opciones": [
+                    "Papaya",
+                    "Granada",
+                    "Mango",
+                    "Piña"
+                ],
+                "respuesta_correcta": "Granada"
+            },
+            {
+                "pregunta": "¿Cuál es el plato típico de España que contiene arroz, azafrán y varios ingredientes como pollo, conejo y mariscos?",
+                "opciones": [
+                    "Sushi",
+                    "Taco",
+                    "Lasagna",
+                    "Paella"
+                ],
+                "respuesta_correcta": "Paella"
+            },
+            {
+                "pregunta": "¿Qué plato típico de la comida mexicana consiste en tortillas de maíz rellenas de carne y otras guarniciones?",
+                "opciones": [
+                    "Taco",
+                    "Sushi",
+                    "Lasagna",
+                    "Paella"
+                ],
+                "respuesta_correcta": "Taco"
+            },
+            {
+                "pregunta": "¿Cuál es el ingrediente principal de la salsa pesto italiana?",
+                "opciones": [
+                    "Aguacate",
+                    "Albahaca",
+                    "Queso cheddar",
+                    "Tomate"
+                ],
+                "respuesta_correcta": "Albahaca"
+            }
+        ],
+        "dificil": [
+            {
+                "pregunta": "¿Cuál es el plato típico de Corea hecho con arroz, vegetales y carne, a menudo servido con kimchi?",
+                "opciones": [
+                    "Sushi",
+                    "Taco",
+                    "Bibimbap",
+                    "Ramen"
+                ],
+                "respuesta_correcta": "Bibimbap"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre de la fruta tropical de pulpa blanca y negra, a menudo llamada 'fruta del dragón'?",
+                "opciones": [
+                    "Pitahaya",
+                    "Mango",
+                    "Litchi",
+                    "Granada"
+                ],
+                "respuesta_correcta": "Pitahaya"
+            },
+            {
+                "pregunta": "¿Cuál es el postre francés a base de crema y caramelo, conocido como 'quemado'?",
+                "opciones": [
+                    "Soufflé",
+                    "Éclair",
+                    "Crème brûlée",
+                    "Tarte Tatin"
+                ],
+                "respuesta_correcta": "Crème brûlée"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre de la pasta japonesa fina y alargada?",
+                "opciones": [
+                    "Udon",
+                    "Soba",
+                    "Ramen",
+                    "Spaghetti"
+                ],
+                "respuesta_correcta": "Soba"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del restaurante de comida rápida estadounidense famoso por sus hamburguesas y papas fritas?",
+                "opciones": [
+                    "McDonald's",
+                    "Subway",
+                    "KFC",
+                    "Pizza Hut"
+                ],
+                "respuesta_correcta": "McDonald's"
+            }
+        ],
+        "experto": [
+            {
+                "pregunta": "¿Cuál es el nombre del plato típico de Marruecos que combina carne, cuscús y una variedad de verduras y especias?",
+                "opciones": [
+                    "Paella",
+                    "Taco",
+                    "Sushi",
+                    "Cuscús"
+                ],
+                "respuesta_correcta": "Cuscús"
+            },
+            {
+                "pregunta": "¿Qué fruto seco se utiliza comúnmente en la preparación de platos salados y dulces, y es una fuente de aceite vegetal?",
+                "opciones": [
+                    "Almendra",
+                    "Nuez",
+                    "Cacahuete",
+                    "Pistacho"
+                ],
+                "respuesta_correcta": "Cacahuete"
+            },
+            {
+                "pregunta": "¿En qué país se originó el plato de carne marinada y asada conocido como kebab?",
+                "opciones": [
+                    "Turquía",
+                    "India",
+                    "Grecia",
+                    "México"
+                ],
+                "respuesta_correcta": "Turquía"
+            },
+            {
+                "pregunta": "¿Cuál es el plato de la cocina tailandesa que combina arroz frito con verduras, huevo y proteínas como pollo o camarones?",
+                "opciones": [
+                    "Pad Thai",
+                    "Bibimbap",
+                    "Sushi",
+                    "Kebab"
+                ],
+                "respuesta_correcta": "Pad Thai"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del chef francés famoso por su influencia en la nouvelle cuisine y su restaurante 'Nouvelle Cuisine'?",
+                "opciones": [
+                    "Gordon Ramsay",
+                    "Julia Child",
+                    "Alain Ducasse",
+                    "Paul Bocuse"
+                ],
+                "respuesta_correcta": "Paul Bocuse"
+            }
+        ]
+    }
+}

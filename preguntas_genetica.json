@@ -1,0 +1,212 @@
+{
+    "genetica": {
+        "facil": [
+            {
+                "pregunta": "¿Cuál es la molécula que almacena la información genética en los seres vivos?",
+                "opciones": [
+                    "Proteína",
+                    "ADN",
+                    "ARN",
+                    "Lípido"
+                ],
+                "respuesta_correcta": "ADN"
+            },
+            {
+                "pregunta": "¿Qué técnica se utiliza comúnmente para amplificar segmentos específicos de ADN?",
+                "opciones": [
+                    "PCR",
+                    "ELISA",
+                    "NMR",
+                    "GC-MS"
+                ],
+                "respuesta_correcta": "PCR"
+            },
+            {
+                "pregunta": "¿Qué tipo de célula contiene un núcleo definido y organelos membranosos?",
+                "opciones": [
+                    "Procariota",
+                    "Eucariota",
+                    "Viral",
+                    "Bacteriana"
+                ],
+                "respuesta_correcta": "Eucariota"
+            },
+            {
+                "pregunta": "¿Cuál es el proceso por el cual una célula se divide para formar dos células idénticas?",
+                "opciones": [
+                    "Mitosis",
+                    "Meiosis",
+                    "Fotosíntesis",
+                    "Reproducción asexual"
+                ],
+                "respuesta_correcta": "Mitosis"
+            },
+            {
+                "pregunta": "¿Cuál es la enzima que desdobla el ADN durante la replicación?",
+                "opciones": [
+                    "Helicasa",
+                    "ADN polimerasa",
+                    "Ligasa",
+                    "Topoisomerasa"
+                ],
+                "respuesta_correcta": "Helicasa"
+            }
+        ],
+        "medio": [
+            {
+                "pregunta": "¿Cuál es la técnica que permite la modificación genética de organismos vivos?",
+                "opciones": [
+                    "Transgénesis",
+                    "Clonación",
+                    "Mutación",
+                    "Hibridación"
+                ],
+                "respuesta_correcta": "Transgénesis"
+            },
+            {
+                "pregunta": "¿Cuál es el término para la variabilidad genética que se produce naturalmente durante la reproducción sexual?",
+                "opciones": [
+                    "Meiosis",
+                    "Variación genética",
+                    "Cruce",
+                    "Mutación"
+                ],
+                "respuesta_correcta": "Variación genética"
+            },
+            {
+                "pregunta": "¿Cuál es el proceso de copia de información genética del ADN a ARN?",
+                "opciones": [
+                    "Transcripción",
+                    "Traducción",
+                    "Recombinación",
+                    "Replicación"
+                ],
+                "respuesta_correcta": "Transcripción"
+            },
+            {
+                "pregunta": "¿Qué técnica se utiliza para separar fragmentos de ADN por tamaño en un gel?",
+                "opciones": [
+                    "Electroforesis",
+                    "Cromatografía",
+                    "PCR",
+                    "Secuenciación"
+                ],
+                "respuesta_correcta": "Electroforesis"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del proceso por el cual las células se especializan para realizar funciones específicas?",
+                "opciones": [
+                    "Diferenciación celular",
+                    "Mitosis",
+                    "Meiosis",
+                    "Clonación"
+                ],
+                "respuesta_correcta": "Diferenciación celular"
+            }
+        ],
+        "dificil": [
+            {
+                "pregunta": "¿Cuál es el término para la técnica que permite la edición precisa del ADN, eliminando o reemplazando genes?",
+                "opciones": [
+                    "CRISPR-Cas9",
+                    "ELISA",
+                    "Western blot",
+                    "PCR cuantitativa"
+                ],
+                "respuesta_correcta": "CRISPR-Cas9"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre de la secuenciación de nueva generación que ha revolucionado la genómica?",
+                "opciones": [
+                    "Sanger",
+                    "PacBio",
+                    "Illumina",
+                    "454"
+                ],
+                "respuesta_correcta": "Illumina"
+            },
+            {
+                "pregunta": "¿Qué técnica se utiliza para la síntesis de fragmentos de ADN específicos en el laboratorio?",
+                "opciones": [
+                    "Síntesis de oligonucleótidos",
+                    "PCR",
+                    "Electroforesis",
+                    "Secuenciación de Sanger"
+                ],
+                "respuesta_correcta": "Síntesis de oligonucleótidos"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre de la técnica que se utiliza para determinar la secuencia de ADN en un genoma completo?",
+                "opciones": [
+                    "Secuenciación de nueva generación",
+                    "Secuenciación de Sanger",
+                    "PCR cuantitativa",
+                    "ELISA"
+                ],
+                "respuesta_correcta": "Secuenciación de nueva generación"
+            },
+            {
+                "pregunta": "¿En qué parte de la célula se encuentra la información genética en forma de ADN?",
+                "opciones": [
+                    "Núcleo",
+                    "Ribosomas",
+                    "Mitocondrias",
+                    "Retículo endoplasmático"
+                ],
+                "respuesta_correcta": "Núcleo"
+            }
+        ],
+        "experto": [
+            {
+                "pregunta": "¿Cuál es el nombre de la técnica que permite la amplificación de ADN en una sola célula?",
+                "opciones": [
+                    "PCR cuantitativa de célula única",
+                    "Western blot",
+                    "CRISPR-Cas9",
+                    "Secuenciación de Sanger"
+                ],
+                "respuesta_correcta": "PCR cuantitativa de célula única"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del proceso por el cual una célula se divide para formar cuatro células con la mitad del número de cromosomas?",
+                "opciones": [
+                    "Mitosis",
+                    "Meiosis",
+                    "Reproducción asexual",
+                    "Transcripción"
+                ],
+                "respuesta_correcta": "Meiosis"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del proceso de intercambio de segmentos de cromosomas durante la meiosis?",
+                "opciones": [
+                    "Cruce",
+                    "Transcripción",
+                    "Duplicación",
+                    "Mutación"
+                ],
+                "respuesta_correcta": "Cruce"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre de la técnica que se utiliza para sintetizar proteínas específicas en el laboratorio?",
+                "opciones": [
+                    "Síntesis de proteínas in vitro",
+                    "PCR cuantitativa",
+                    "ELISA",
+                    "Cromatografía de afinidad"
+                ],
+                "respuesta_correcta": "Síntesis de proteínas in vitro"
+            },
+            {
+                "pregunta": "¿Qué enzima es responsable de la replicación del ADN en una cadena complementaria?",
+                "opciones": [
+                    "ADN polimerasa",
+                    "Helicasa",
+                    "Ligasa",
+                    "Topoisomerasa"
+                ],
+                "respuesta_correcta": "ADN polimerasa"
+            }
+        ]
+    }
+}

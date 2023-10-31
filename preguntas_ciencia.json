@@ -1,0 +1,212 @@
+{
+    "ciencia": {
+        "facil": [
+            {
+                "pregunta": "¿Cuál es el símbolo químico del agua?",
+                "opciones": [
+                    "H2O",
+                    "CO2",
+                    "O2",
+                    "H2SO4"
+                ],
+                "respuesta_correcta": "H2O"
+            },
+            {
+                "pregunta": "¿Cuál es la unidad básica de la vida?",
+                "opciones": [
+                    "Átomo",
+                    "Molécula",
+                    "Célula",
+                    "Organelo"
+                ],
+                "respuesta_correcta": "Célula"
+            },
+            {
+                "pregunta": "¿Cuál es la fuerza que atrae a los objetos hacia la Tierra?",
+                "opciones": [
+                    "Energía cinética",
+                    "Fuerza centrífuga",
+                    "Gravedad",
+                    "Magnetismo"
+                ],
+                "respuesta_correcta": "Gravedad"
+            },
+            {
+                "pregunta": "¿Cuál es el planeta más cercano al Sol en nuestro sistema solar?",
+                "opciones": [
+                    "Tierra",
+                    "Marte",
+                    "Venus",
+                    "Mercurio"
+                ],
+                "respuesta_correcta": "Mercurio"
+            },
+            {
+                "pregunta": "¿Cuál es la parte del sistema respiratorio donde ocurre el intercambio de gases?",
+                "opciones": [
+                    "Laringe",
+                    "Bronquios",
+                    "Pulmones",
+                    "Nariz"
+                ],
+                "respuesta_correcta": "Pulmones"
+            }
+        ],
+        "medio": [
+            {
+                "pregunta": "¿Cuál es el proceso por el cual las plantas convierten la luz solar en energía química?",
+                "opciones": [
+                    "Fotosíntesis",
+                    "Respiración",
+                    "Mitosis",
+                    "Digestión"
+                ],
+                "respuesta_correcta": "Fotosíntesis"
+            },
+            {
+                "pregunta": "¿Cuál es el metal líquido a temperatura ambiente?",
+                "opciones": [
+                    "Hierro",
+                    "Aluminio",
+                    "Plomo",
+                    "Mercurio"
+                ],
+                "respuesta_correcta": "Mercurio"
+            },
+            {
+                "pregunta": "¿Cuál es el componente más abundante en la atmósfera terrestre?",
+                "opciones": [
+                    "Nitrógeno",
+                    "Oxígeno",
+                    "Dióxido de carbono",
+                    "Hidrógeno"
+                ],
+                "respuesta_correcta": "Nitrógeno"
+            },
+            {
+                "pregunta": "¿Cuál es el proceso por el cual el ADN se replica a sí mismo?",
+                "opciones": [
+                    "Fotosíntesis",
+                    "Mitosis",
+                    "Recombinación genética",
+                    "Replicación del ADN"
+                ],
+                "respuesta_correcta": "Replicación del ADN"
+            },
+            {
+                "pregunta": "¿Cuál es el proceso por el cual una sustancia cambia de estado sólido a líquido?",
+                "opciones": [
+                    "Ebullición",
+                    "Fusión",
+                    "Sublimación",
+                    "Condensación"
+                ],
+                "respuesta_correcta": "Fusión"
+            }
+        ],
+        "dificil": [
+            {
+                "pregunta": "¿Cuál es el proceso por el cual una sustancia cambia de estado líquido a gas sin alcanzar el punto de ebullición?",
+                "opciones": [
+                    "Ebullición",
+                    "Fusión",
+                    "Sublimación",
+                    "Evaporación"
+                ],
+                "respuesta_correcta": "Evaporación"
+            },
+            {
+                "pregunta": "¿Qué científico formuló la teoría de la relatividad?",
+                "opciones": [
+                    "Isaac Newton",
+                    "Marie Curie",
+                    "Niels Bohr",
+                    "Albert Einstein"
+                ],
+                "respuesta_correcta": "Albert Einstein"
+            },
+            {
+                "pregunta": "¿Cuál es el proceso de conversión de glucosa en energía en las células?",
+                "opciones": [
+                    "Fotosíntesis",
+                    "Respiración celular",
+                    "Mitosis",
+                    "Digestión"
+                ],
+                "respuesta_correcta": "Respiración celular"
+            },
+            {
+                "pregunta": "¿Cuál es la partícula subatómica sin carga eléctrica?",
+                "opciones": [
+                    "Protón",
+                    "Electrón",
+                    "Neutrón",
+                    "Antineutrino"
+                ],
+                "respuesta_correcta": "Neutrón"
+            },
+            {
+                "pregunta": "¿Cuál es la unidad de medida de la fuerza en el Sistema Internacional?",
+                "opciones": [
+                    "Julio",
+                    "Vatio",
+                    "Newton",
+                    "Kilogramo"
+                ],
+                "respuesta_correcta": "Newton"
+            }
+        ],
+        "experto": [
+            {
+                "pregunta": "¿Cuál es el proceso de unión de núcleos ligeros para formar uno más pesado en el núcleo de una estrella?",
+                "opciones": [
+                    "Fusión nuclear",
+                    "Fisión nuclear",
+                    "Fotodesintegración",
+                    "Captura de electrones"
+                ],
+                "respuesta_correcta": "Fusión nuclear"
+            },
+            {
+                "pregunta": "¿Qué científico es conocido por su teoría sobre la relatividad especial?",
+                "opciones": [
+                    "Isaac Newton",
+                    "Marie Curie",
+                    "Niels Bohr",
+                    "Albert Einstein"
+                ],
+                "respuesta_correcta": "Albert Einstein"
+            },
+            {
+                "pregunta": "¿Cuál es la partícula subatómica que se encuentra en el núcleo de un átomo y tiene una carga positiva?",
+                "opciones": [
+                    "Protón",
+                    "Electrón",
+                    "Neutrón",
+                    "Positrón"
+                ],
+                "respuesta_correcta": "Protón"
+            },
+            {
+                "pregunta": "¿Cuál es el proceso por el cual una partícula inestable se convierte en partículas más ligeras?",
+                "opciones": [
+                    "Fusión nuclear",
+                    "Fisión nuclear",
+                    "Desintegración radiactiva",
+                    "Captura de electrones"
+                ],
+                "respuesta_correcta": "Desintegración radiactiva"
+            },
+            {
+                "pregunta": "¿Cuál es el proceso de división de un núcleo pesado en núcleos más ligeros, liberando energía en el proceso?",
+                "opciones": [
+                    "Fusión nuclear",
+                    "Fisión nuclear",
+                    "Fotodesintegración",
+                    "Captura de electrones"
+                ],
+                "respuesta_correcta": "Fisión nuclear"
+            }
+        ]
+    }
+}

@@ -1,0 +1,212 @@
+{
+    "entretenimiento": {
+        "facil": [
+            {
+                "pregunta": "¿Cuál es el deporte más popular en Estados Unidos?",
+                "opciones": [
+                    "Fútbol americano",
+                    "Baloncesto",
+                    "Béisbol",
+                    "Hockey"
+                ],
+                "respuesta_correcta": "Fútbol americano"
+            },
+            {
+                "pregunta": "¿Qué famoso programa de televisión estadounidense presenta talentos y habilidades diversas?",
+                "opciones": [
+                    "The Voice",
+                    "America's Got Talent",
+                    "American Idol",
+                    "Dancing with the Stars"
+                ],
+                "respuesta_correcta": "America's Got Talent"
+            },
+            {
+                "pregunta": "¿En qué ciudad se celebra el famoso carnaval de Río de Janeiro?",
+                "opciones": [
+                    "Sao Paulo",
+                    "Buenos Aires",
+                    "Río de Janeiro",
+                    "Lima"
+                ],
+                "respuesta_correcta": "Río de Janeiro"
+            },
+            {
+                "pregunta": "¿Cuál es el evento deportivo internacional que se celebra cada cuatro años y presenta una variedad de disciplinas?",
+                "opciones": [
+                    "Mundial de fútbol",
+                    "Juegos Olímpicos",
+                    "Copa América",
+                    "Copa del Mundo de Rugby"
+                ],
+                "respuesta_correcta": "Juegos Olímpicos"
+            },
+            {
+                "pregunta": "¿Cuál es el famoso parque de atracciones en Orlando, Florida, conocido por su magia y personajes de Disney?",
+                "opciones": [
+                    "Six Flags",
+                    "Universal Studios",
+                    "Legoland",
+                    "Walt Disney World"
+                ],
+                "respuesta_correcta": "Walt Disney World"
+            }
+        ],
+        "medio": [
+            {
+                "pregunta": "¿Cuál es el deporte en el que compiten los equipos de la NFL?",
+                "opciones": [
+                    "Fútbol americano",
+                    "Baloncesto",
+                    "Béisbol",
+                    "Hockey"
+                ],
+                "respuesta_correcta": "Fútbol americano"
+            },
+            {
+                "pregunta": "¿Qué popular concurso de cocina es presentado por Gordon Ramsay y ha tenido versiones en varios países?",
+                "opciones": [
+                    "Top Chef",
+                    "MasterChef",
+                    "Hell's Kitchen",
+                    "Iron Chef"
+                ],
+                "respuesta_correcta": "MasterChef"
+            },
+            {
+                "pregunta": "¿En qué país se celebra el Festival de la Canción de Eurovisión?",
+                "opciones": [
+                    "Estados Unidos",
+                    "Reino Unido",
+                    "España",
+                    "Europa"
+                ],
+                "respuesta_correcta": "Europa"
+            },
+            {
+                "pregunta": "¿Cuál es el evento deportivo internacional que se celebra cada cuatro años y presenta una variedad de disciplinas, pero solo para atletas con discapacidades?",
+                "opciones": [
+                    "Mundial de fútbol",
+                    "Juegos Paralímpicos",
+                    "Copa América",
+                    "Copa del Mundo de Rugby"
+                ],
+                "respuesta_correcta": "Juegos Paralímpicos"
+            },
+            {
+                "pregunta": "¿En qué ciudad se encuentra el famoso parque de atracciones Disneyland?",
+                "opciones": [
+                    "Orlando",
+                    "Los Ángeles",
+                    "Nueva York",
+                    "Las Vegas"
+                ],
+                "respuesta_correcta": "Los Ángeles"
+            }
+        ],
+        "dificil": [
+            {
+                "pregunta": "¿Cuál es el nombre del evento anual de lucha libre profesional que presenta una lucha masiva con 30 luchadores?",
+                "opciones": [
+                    "Royal Rumble",
+                    "WrestleMania",
+                    "SummerSlam",
+                    "Survivor Series"
+                ],
+                "respuesta_correcta": "Royal Rumble"
+            },
+            {
+                "pregunta": "¿Cuál es el programa de televisión en el que los concursantes deben sobrevivir en una isla desierta y formar alianzas?",
+                "opciones": [
+                    "Survivor",
+                    "The Amazing Race",
+                    "Big Brother",
+                    "The Bachelor"
+                ],
+                "respuesta_correcta": "Survivor"
+            },
+            {
+                "pregunta": "¿Cuál es el famoso festival de música y arte que se celebra en el desierto de Nevada y atrae a miles de asistentes?",
+                "opciones": [
+                    "Coachella",
+                    "Burning Man",
+                    "Glastonbury",
+                    "Lollapalooza"
+                ],
+                "respuesta_correcta": "Burning Man"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del deporte extremo que implica lanzarse desde un avión y volar con un traje especial?",
+                "opciones": [
+                    "Paracaidismo",
+                    "Salto base",
+                    "Ala delta",
+                    "Wingsuit flying"
+                ],
+                "respuesta_correcta": "Wingsuit flying"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del evento deportivo que presenta una serie de obstáculos y desafíos en lodo?",
+                "opciones": [
+                    "Tough Mudder",
+                    "Spartan Race",
+                    "Mud Run",
+                    "Warrior Dash"
+                ],
+                "respuesta_correcta": "Tough Mudder"
+            }
+        ],
+        "experto": [
+            {
+                "pregunta": "¿Cuál es el nombre del festival de música que se celebra en el desierto de California y es conocido por atraer a celebridades y amantes de la música?",
+                "opciones": [
+                    "Bonnaroo",
+                    "Coachella",
+                    "Glastonbury",
+                    "Lollapalooza"
+                ],
+                "respuesta_correcta": "Coachella"
+            },
+            {
+                "pregunta": "¿Qué popular concurso de cocina es presentado por Gordon Ramsay y ha tenido versiones en varios países, incluyendo una versión para niños?",
+                "opciones": [
+                    "Top Chef",
+                    "MasterChef",
+                    "Hell's Kitchen",
+                    "Iron Chef"
+                ],
+                "respuesta_correcta": "MasterChef"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del evento deportivo internacional que presenta una variedad de disciplinas, pero solo para atletas con discapacidades intelectuales?",
+                "opciones": [
+                    "Mundial de fútbol",
+                    "Juegos Paralímpicos",
+                    "Copa América",
+                    "Special Olympics World Games"
+                ],
+                "respuesta_correcta": "Special Olympics World Games"
+            },
+            {
+                "pregunta": "¿Qué popular programa de competencia de baile ha tenido jueces como Simon Cowell, Paula Abdul y Randy Jackson?",
+                "opciones": [
+                    "Dancing with the Stars",
+                    "So You Think You Can Dance",
+                    "Strictly Come Dancing",
+                    "The Voice"
+                ],
+                "respuesta_correcta": "Dancing with the Stars"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del evento deportivo anual en el que los equipos compiten en una serie de desafíos físicos y mentales?",
+                "opciones": [
+                    "Juegos de la Commonwealth",
+                    "Juegos Panamericanos",
+                    "Juegos de la Lusofonía",
+                    "Juegos Olímpicos de la Juventud"
+                ],
+                "respuesta_correcta": "Juegos de la Commonwealth"
+            }
+        ]
+    }
+}

@@ -1,0 +1,212 @@
+{
+    "geografia": {
+        "facil": [
+            {
+                "pregunta": "¿Cuál es la capital de Francia?",
+                "opciones": [
+                    "Madrid",
+                    "París",
+                    "Roma",
+                    "Berlín"
+                ],
+                "respuesta_correcta": "París"
+            },
+            {
+                "pregunta": "¿En qué continente se encuentra Australia?",
+                "opciones": [
+                    "Asia",
+                    "Europa",
+                    "África",
+                    "Oceanía"
+                ],
+                "respuesta_correcta": "Oceanía"
+            },
+            {
+                "pregunta": "¿Cuál es el río más largo del mundo?",
+                "opciones": [
+                    "Nilo",
+                    "Amazonas",
+                    "Danubio",
+                    "Mississippi"
+                ],
+                "respuesta_correcta": "Amazonas"
+            },
+            {
+                "pregunta": "¿Cuál es el país más grande del mundo en términos de superficie?",
+                "opciones": [
+                    "Canadá",
+                    "China",
+                    "Rusia",
+                    "Estados Unidos"
+                ],
+                "respuesta_correcta": "Rusia"
+            },
+            {
+                "pregunta": "¿Qué océano se encuentra al este de África?",
+                "opciones": [
+                    "Océano Pacífico",
+                    "Océano Índico",
+                    "Mar Mediterráneo",
+                    "Mar Rojo"
+                ],
+                "respuesta_correcta": "Océano Índico"
+            }
+        ],
+        "medio": [
+            {
+                "pregunta": "¿Cuál es el punto más alto de la Tierra?",
+                "opciones": [
+                    "Montaña Everest",
+                    "Kilimanjaro",
+                    "Mont Blanc",
+                    "Aconcagua"
+                ],
+                "respuesta_correcta": "Montaña Everest"
+            },
+            {
+                "pregunta": "¿Cuál es la capital de Argentina?",
+                "opciones": [
+                    "Río de Janeiro",
+                    "Buenos Aires",
+                    "Santiago",
+                    "Bogotá"
+                ],
+                "respuesta_correcta": "Buenos Aires"
+            },
+            {
+                "pregunta": "¿Cuál es el país más poblado del mundo?",
+                "opciones": [
+                    "India",
+                    "Estados Unidos",
+                    "China",
+                    "Brasil"
+                ],
+                "respuesta_correcta": "China"
+            },
+            {
+                "pregunta": "¿Cuál es el estrecho que separa Asia de África?",
+                "opciones": [
+                    "Estrecho de Malaca",
+                    "Estrecho de Gibraltar",
+                    "Estrecho de Bering",
+                    "Estrecho de Ormuz"
+                ],
+                "respuesta_correcta": "Estrecho de Gibraltar"
+            },
+            {
+                "pregunta": "¿Cuál es el país más pequeño del mundo en términos de superficie?",
+                "opciones": [
+                    "Mónaco",
+                    "San Marino",
+                    "Ciudad del Vaticano",
+                    "Liechtenstein"
+                ],
+                "respuesta_correcta": "Ciudad del Vaticano"
+            }
+        ],
+        "dificil": [
+            {
+                "pregunta": "¿En qué cordillera se encuentra el Monte Kilimanjaro?",
+                "opciones": [
+                    "Andes",
+                    "Himalayas",
+                    "Montañas de la Luna",
+                    "Montañas de África Oriental"
+                ],
+                "respuesta_correcta": "Montañas de África Oriental"
+            },
+            {
+                "pregunta": "¿Cuál es la capital de Hungría?",
+                "opciones": [
+                    "Praga",
+                    "Viena",
+                    "Budapest",
+                    "Varsovia"
+                ],
+                "respuesta_correcta": "Budapest"
+            },
+            {
+                "pregunta": "¿Cuál es el segundo río más largo de América del Sur después del Amazonas?",
+                "opciones": [
+                    "Paraná",
+                    "Orinoco",
+                    "Magdalena",
+                    "São Francisco"
+                ],
+                "respuesta_correcta": "Paraná"
+            },
+            {
+                "pregunta": "¿Cuál es el país que limita con la mayoría de los estados de Estados Unidos?",
+                "opciones": [
+                    "Canadá",
+                    "México",
+                    "Rusia",
+                    "China"
+                ],
+                "respuesta_correcta": "Canadá"
+            },
+            {
+                "pregunta": "¿Cuál es la isla más grande del mundo?",
+                "opciones": [
+                    "Groenlandia",
+                    "Madagascar",
+                    "Borneo",
+                    "Sumatra"
+                ],
+                "respuesta_correcta": "Groenlandia"
+            }
+        ],
+        "experto": [
+            {
+                "pregunta": "¿Cuál es la latitud del Círculo Polar Ártico?",
+                "opciones": [
+                    "66,5° N",
+                    "70° N",
+                    "66,33° N",
+                    "71° N"
+                ],
+                "respuesta_correcta": "66,33° N"
+            },
+            {
+                "pregunta": "¿Cuál es la capital de Lesoto?",
+                "opciones": [
+                    "Maseru",
+                    "Banjul",
+                    "Sucre",
+                    "Yamena"
+                ],
+                "respuesta_correcta": "Maseru"
+            },
+            {
+                "pregunta": "¿Cuál es el punto más bajo de la Tierra?",
+                "opciones": [
+                    "Lago Baikal",
+                    "Mar Muerto",
+                    "Valle de la Muerte",
+                    "Gran Cañón del Colorado"
+                ],
+                "respuesta_correcta": "Mar Muerto"
+            },
+            {
+                "pregunta": "¿Cuál es el país insular más grande del mundo?",
+                "opciones": [
+                    "Indonesia",
+                    "Filipinas",
+                    "Japón",
+                    "Reino Unido"
+                ],
+                "respuesta_correcta": "Indonesia"
+            },
+            {
+                "pregunta": "¿En qué montaña se encuentra el observatorio astronómico más alto del mundo?",
+                "opciones": [
+                    "Monte Kilimanjaro",
+                    "Montaña Mauna Kea",
+                    "Monte Elbrus",
+                    "Montaña Aconcagua"
+                ],
+                "respuesta_correcta": "Montaña Mauna Kea"
+            }
+        ]
+    }
+}

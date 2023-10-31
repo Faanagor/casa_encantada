@@ -1,0 +1,212 @@
+{
+    "historia": {
+        "facil": [
+            {
+                "pregunta": "¿En qué año comenzó la Primera Guerra Mundial?",
+                "opciones": [
+                    "1914",
+                    "1939",
+                    "1945",
+                    "1870"
+                ],
+                "respuesta_correcta": "1914"
+            },
+            {
+                "pregunta": "¿Quién fue el primer presidente de los Estados Unidos?",
+                "opciones": [
+                    "Abraham Lincoln",
+                    "Thomas Jefferson",
+                    "George Washington",
+                    "Benjamin Franklin"
+                ],
+                "respuesta_correcta": "George Washington"
+            },
+            {
+                "pregunta": "¿Qué evento histórico ocurrió en 1492?",
+                "opciones": [
+                    "Descubrimiento de América por Cristóbal Colón",
+                    "Revolución Francesa",
+                    "Caída del Muro de Berlín",
+                    "Batalla de Gettysburg"
+                ],
+                "respuesta_correcta": "Descubrimiento de América por Cristóbal Colón"
+            },
+            {
+                "pregunta": "¿Quién fue el líder de la Revolución Rusa de 1917?",
+                "opciones": [
+                    "Vladimir Lenin",
+                    "León Trotsky",
+                    "José Stalin",
+                    "Nicolás II"
+                ],
+                "respuesta_correcta": "Vladimir Lenin"
+            },
+            {
+                "pregunta": "¿En qué año se firmó la Declaración de Independencia de los Estados Unidos?",
+                "opciones": [
+                    "1776",
+                    "1789",
+                    "1804",
+                    "1769"
+                ],
+                "respuesta_correcta": "1776"
+            }
+        ],
+        "medio": [
+            {
+                "pregunta": "¿Quién fue el líder nazi durante la Segunda Guerra Mundial?",
+                "opciones": [
+                    "Adolf Hitler",
+                    "Benito Mussolini",
+                    "Emperor Hirohito",
+                    "Joseph Stalin"
+                ],
+                "respuesta_correcta": "Adolf Hitler"
+            },
+            {
+                "pregunta": "¿En qué año terminó la Guerra de Vietnam?",
+                "opciones": [
+                    "1973",
+                    "1967",
+                    "1982",
+                    "1991"
+                ],
+                "respuesta_correcta": "1973"
+            },
+            {
+                "pregunta": "¿Quién fue el primer emperador romano?",
+                "opciones": [
+                    "Julio César",
+                    "Nerón",
+                    "Augusto",
+                    "Tiberio"
+                ],
+                "respuesta_correcta": "Augusto"
+            },
+            {
+                "pregunta": "¿Cuál de las siguientes figuras históricas es conocida como el 'Padre de la India'?",
+                "opciones": [
+                    "Mahatma Gandhi",
+                    "Jawaharlal Nehru",
+                    "Subhas Chandra Bose",
+                    "Bhagat Singh"
+                ],
+                "respuesta_correcta": "Mahatma Gandhi"
+            },
+            {
+                "pregunta": "¿Qué tratado puso fin a la Primera Guerra Mundial?",
+                "opciones": [
+                    "Tratado de Versalles",
+                    "Tratado de Tordesillas",
+                    "Tratado de Londres",
+                    "Tratado de Viena"
+                ],
+                "respuesta_correcta": "Tratado de Versalles"
+            }
+        ],
+        "dificil": [
+            {
+                "pregunta": "¿En qué año se fundó la Liga de Naciones?",
+                "opciones": [
+                    "1919",
+                    "1924",
+                    "1931",
+                    "1945"
+                ],
+                "respuesta_correcta": "1919"
+            },
+            {
+                "pregunta": "¿Quién fue el autor de 'El Príncipe'?",
+                "opciones": [
+                    "Miguel de Cervantes",
+                    "Thomas More",
+                    "Machiavelli",
+                    "Jean-Jacques Rousseau"
+                ],
+                "respuesta_correcta": "Machiavelli"
+            },
+            {
+                "pregunta": "¿Cuál de las siguientes batallas fue un enfrentamiento entre las fuerzas aliadas y del Eje en la Segunda Guerra Mundial?",
+                "opciones": [
+                    "Batalla de Stalingrado",
+                    "Batalla de Gettysburg",
+                    "Batalla de Trafalgar",
+                    "Batalla de Austerlitz"
+                ],
+                "respuesta_correcta": "Batalla de Stalingrado"
+            },
+            {
+                "pregunta": "¿Cuál fue la dinastía que gobernó China durante la construcción de la Gran Muralla?",
+                "opciones": [
+                    "Han",
+                    "Ming",
+                    "Qin",
+                    "Tang"
+                ],
+                "respuesta_correcta": "Qin"
+            },
+            {
+                "pregunta": "¿En qué año se firmó el Tratado de Paz de Westfalia, que puso fin a la Guerra de los Treinta Años?",
+                "opciones": [
+                    "1648",
+                    "1689",
+                    "1612",
+                    "1703"
+                ],
+                "respuesta_correcta": "1648"
+            }
+        ],
+        "experto": [
+            {
+                "pregunta": "¿Quién fue el líder de la Revolución cubana?",
+                "opciones": [
+                    "Che Guevara",
+                    "Fulgencio Batista",
+                    "Fidel Castro",
+                    "Carlos Puebla"
+                ],
+                "respuesta_correcta": "Fidel Castro"
+            },
+            {
+                "pregunta": "¿Cuál de las siguientes batallas no formó parte de las Guerras Médicas?",
+                "opciones": [
+                    "Batalla de Maratón",
+                    "Batalla de las Termópilas",
+                    "Batalla de Gaugamela",
+                    "Batalla de Platea"
+                ],
+                "respuesta_correcta": "Batalla de Gaugamela"
+            },
+            {
+                "pregunta": "¿Qué tratado puso fin a la Guerra de los Cien Años entre Inglaterra y Francia?",
+                "opciones": [
+                    "Tratado de Versalles",
+                    "Tratado de Tordesillas",
+                    "Tratado de París",
+                    "Tratado de Troyes"
+                ],
+                "respuesta_correcta": "Tratado de Troyes"
+            },
+            {
+                "pregunta": "¿Cuál de los siguientes líderes no estuvo involucrado en la Conferencia de Yalta durante la Segunda Guerra Mundial?",
+                "opciones": [
+                    "Winston Churchill",
+                    "Franklin D. Roosevelt",
+                    "Joseph Stalin",
+                    "Adolf Hitler"
+                ],
+                "respuesta_correcta": "Adolf Hitler"
+            },
+            {
+                "pregunta": "¿En qué año se promulgó la Constitución de los Estados Unidos?",
+                "opciones": [
+                    "1776",
+                    "1781",
+                    "1787",
+                    "1791"
+                ],
+                "respuesta_correcta": "1787"
+            }
+        ]
+    }
+}

@@ -1,0 +1,212 @@
+{
+    "inventos": {
+        "facil": [
+            {
+                "pregunta": "¿Qué invento revolucionó la industria textil y fue patentado por Eli Whitney en 1793?",
+                "opciones": [
+                    "Máquina de vapor",
+                    "Máquina de hilar",
+                    "Telar mecánico",
+                    "Tractor"
+                ],
+                "respuesta_correcta": "Telar mecánico"
+            },
+            {
+                "pregunta": "¿Quién inventó el teléfono?",
+                "opciones": [
+                    "Nikola Tesla",
+                    "Thomas Edison",
+                    "Guglielmo Marconi",
+                    "Alexander Graham Bell"
+                ],
+                "respuesta_correcta": "Alexander Graham Bell"
+            },
+            {
+                "pregunta": "¿Qué invento permitió a la humanidad escribir y almacenar información de manera más eficiente?",
+                "opciones": [
+                    "Pluma estilográfica",
+                    "Máquina de escribir",
+                    "Impresora láser",
+                    "Ordenador personal"
+                ],
+                "respuesta_correcta": "Máquina de escribir"
+            },
+            {
+                "pregunta": "¿Quién inventó la lámpara incandescente eléctrica?",
+                "opciones": [
+                    "Nikola Tesla",
+                    "Thomas Edison",
+                    "Benjamin Franklin",
+                    "Albert Einstein"
+                ],
+                "respuesta_correcta": "Thomas Edison"
+            },
+            {
+                "pregunta": "¿Qué invento facilitó el transporte terrestre y se patentó en 1886?",
+                "opciones": [
+                    "Bicicleta",
+                    "Motocicleta",
+                    "Automóvil",
+                    "Tren de vapor"
+                ],
+                "respuesta_correcta": "Automóvil"
+            }
+        ],
+        "medio": [
+            {
+                "pregunta": "¿Quién inventó la primera máquina de vapor práctica en el siglo XVIII?",
+                "opciones": [
+                    "James Watt",
+                    "Robert Fulton",
+                    "Eli Whitney",
+                    "George Stephenson"
+                ],
+                "respuesta_correcta": "James Watt"
+            },
+            {
+                "pregunta": "¿Qué invento, patentado en 1904, revolucionó la fotografía y la industria del cine?",
+                "opciones": [
+                    "Cámara Polaroid",
+                    "Cámara digital",
+                    "Proyector de cine",
+                    "Televisión"
+                ],
+                "respuesta_correcta": "Cámara Polaroid"
+            },
+            {
+                "pregunta": "¿Quién inventó el avión motorizado y realizó el primer vuelo controlado en 1903?",
+                "opciones": [
+                    "Albert Einstein",
+                    "Leonardo da Vinci",
+                    "Wright Brothers",
+                    "Guglielmo Marconi"
+                ],
+                "respuesta_correcta": "Wright Brothers"
+            },
+            {
+                "pregunta": "¿Qué invento revolucionó la comunicación a larga distancia y fue patentado por Samuel Morse en 1837?",
+                "opciones": [
+                    "Teléfono",
+                    "Telégrafo",
+                    "Radio",
+                    "Televisión"
+                ],
+                "respuesta_correcta": "Telégrafo"
+            },
+            {
+                "pregunta": "¿Quién inventó el microscopio en el siglo XVII?",
+                "opciones": [
+                    "Galileo Galilei",
+                    "Anton van Leeuwenhoek",
+                    "Isaac Newton",
+                    "Johannes Kepler"
+                ],
+                "respuesta_correcta": "Anton van Leeuwenhoek"
+            }
+        ],
+        "dificil": [
+            {
+                "pregunta": "¿Quién inventó la máquina analítica, considerada como el precursor de la computadora moderna, en el siglo XIX?",
+                "opciones": [
+                    "Charles Babbage",
+                    "Ada Lovelace",
+                    "Alan Turing",
+                    "Blaise Pascal"
+                ],
+                "respuesta_correcta": "Charles Babbage"
+            },
+            {
+                "pregunta": "¿Qué invento, patentado por Karl Benz en 1886, se considera el primer automóvil de gasolina en el mundo?",
+                "opciones": [
+                    "Ford Model T",
+                    "Mercedes-Benz",
+                    "Volkswagen Beetle",
+                    "Benz Patent-Motorwagen"
+                ],
+                "respuesta_correcta": "Benz Patent-Motorwagen"
+            },
+            {
+                "pregunta": "¿Quién inventó la radio en el siglo XIX?",
+                "opciones": [
+                    "Nikola Tesla",
+                    "Thomas Edison",
+                    "Marie Curie",
+                    "Guglielmo Marconi"
+                ],
+                "respuesta_correcta": "Nikola Tesla"
+            },
+            {
+                "pregunta": "¿Quién inventó el primer motor a reacción en 1930?",
+                "opciones": [
+                    "Albert Einstein",
+                    "Wernher von Braun",
+                    "Frank Whittle",
+                    "Igor Sikorsky"
+                ],
+                "respuesta_correcta": "Frank Whittle"
+            },
+            {
+                "pregunta": "¿Qué inventor y empresario fundó la compañía SpaceX y Tesla, Inc.?",
+                "opciones": [
+                    "Bill Gates",
+                    "Jeff Bezos",
+                    "Elon Musk",
+                    "Mark Zuckerberg"
+                ],
+                "respuesta_correcta": "Elon Musk"
+            }
+        ],
+        "experto": [
+            {
+                "pregunta": "¿Quién inventó el primer dispositivo de almacenamiento de datos magnético, conocido como disco duro, en 1956?",
+                "opciones": [
+                    "Bill Gates",
+                    "Steve Jobs",
+                    "Alan Turing",
+                    "IBM"
+                ],
+                "respuesta_correcta": "IBM"
+            },
+            {
+                "pregunta": "¿Quién inventó el primer microprocesador en 1971, sentando las bases de la revolución de la computadora personal?",
+                "opciones": [
+                    "Steve Jobs",
+                    "Bill Gates",
+                    "Tim Berners-Lee",
+                    "Ted Hoff"
+                ],
+                "respuesta_correcta": "Ted Hoff"
+            },
+            {
+                "pregunta": "¿Quién inventó el láser en 1960?",
+                "opciones": [
+                    "Nikola Tesla",
+                    "Albert Einstein",
+                    "Theodore Maiman",
+                    "Marie Curie"
+                ],
+                "respuesta_correcta": "Theodore Maiman"
+            },
+            {
+                "pregunta": "¿Qué científico inventó el microscopio electrónico en 1931, permitiendo la observación de estructuras a nivel atómico?",
+                "opciones": [
+                    "Richard Feynman",
+                    "Erwin Schrödinger",
+                    "Max Planck",
+                    "Ernst Ruska"
+                ],
+                "respuesta_correcta": "Ernst Ruska"
+            },
+            {
+                "pregunta": "¿Qué inventor sueco es conocido por inventar el dinamita?",
+                "opciones": [
+                    "Thomas Edison",
+                    "Nikola Tesla",
+                    "Guglielmo Marconi",
+                    "Alfred Nobel"
+                ],
+                "respuesta_correcta": "Alfred Nobel"
+            }
+        ]
+    }
+}

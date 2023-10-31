@@ -1,0 +1,212 @@
+{
+    "matematica": {
+        "facil": [
+            {
+                "pregunta": "¿Cuál es el valor de π (pi) aproximado?",
+                "opciones": [
+                    "3.14",
+                    "2.71",
+                    "1.61",
+                    "4.13"
+                ],
+                "respuesta_correcta": "3.14"
+            },
+            {
+                "pregunta": "¿Quién es considerado el padre de la geometría?",
+                "opciones": [
+                    "Euclides",
+                    "Arquímedes",
+                    "Pitágoras",
+                    "Descartes"
+                ],
+                "respuesta_correcta": "Euclides"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre de una figura geométrica con un número infinito de lados?",
+                "opciones": [
+                    "Polígono",
+                    "Infinitágono",
+                    "Circunferencia",
+                    "Nonágono"
+                ],
+                "respuesta_correcta": "Circunferencia"
+            },
+            {
+                "pregunta": "¿Quién formuló el teorema que haya la hipotenusa de un triangulo?",
+                "opciones": [
+                    "Pitágoras",
+                    "Arquímedes",
+                    "Euclides",
+                    "Descartes"
+                ],
+                "respuesta_correcta": "Pitágoras"
+            },
+            {
+                "pregunta": "¿Cuál es la fórmula para calcular el área de un triángulo?",
+                "opciones": [
+                    "A = πr^2",
+                    "A = bh/2",
+                    "A = 2πr",
+                    "A = a^2"
+                ],
+                "respuesta_correcta": "A = bh/2"
+            }
+        ],
+        "medio": [
+            {
+                "pregunta": "¿Qué matemático italiano es famoso por su introducción de los números indo-arábigos en Europa?",
+                "opciones": [
+                    "Fibonacci",
+                    "Newton",
+                    "Leibniz",
+                    "Euler"
+                ],
+                "respuesta_correcta": "Fibonacci"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del teorema que relaciona los lados y ángulos de un triángulo?",
+                "opciones": [
+                    "Teorema de Pitágoras",
+                    "Teorema de Euclides",
+                    "Teorema de Arquímedes",
+                    "Teorema de Descartes"
+                ],
+                "respuesta_correcta": "Teorema de Pitágoras"
+            },
+            {
+                "pregunta": "¿Cuál de las siguientes es una medida de tendencia central en estadísticas?",
+                "opciones": [
+                    "Varianza",
+                    "Desviación estándar",
+                    "Mediana",
+                    "Derivada"
+                ],
+                "respuesta_correcta": "Mediana"
+            },
+            {
+                "pregunta": "¿Quién es conocido por sus contribuciones a la teoría de números y su último teorema?",
+                "opciones": [
+                    "Gauss",
+                    "Fermat",
+                    "Riemann",
+                    "Euler"
+                ],
+                "respuesta_correcta": "Fermat"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre de una figura geométrica con veinte lados?",
+                "opciones": [
+                    "Icoságono",
+                    "Octágono",
+                    "Decágono",
+                    "Heptágono"
+                ],
+                "respuesta_correcta": "Icoságono"
+            }
+        ],
+        "dificil": [
+            {
+                "pregunta": "¿Cuál es el nombre de la conjetura que propuso que no existen soluciones enteras para la ecuación x^n + y^n = z^n cuando n es mayor que 2?",
+                "opciones": [
+                    "Conjetura de Goldbach",
+                    "Conjetura de Poincaré",
+                    "Conjetura de Fermat",
+                    "Conjetura de Riemann"
+                ],
+                "respuesta_correcta": "Conjetura de Fermat"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del matemático que formuló las ecuaciones que describen por completo los fenómenos electromagnéticos?",
+                "opciones": [
+                    "Maxwell",
+                    "Einstein",
+                    "Newton",
+                    "Hawking"
+                ],
+                "respuesta_correcta": "Maxwell"
+            },
+            {
+                "pregunta": "¿Qué estadístico es conocido por desarrollar el test t de Student?",
+                "opciones": [
+                    "Pearson",
+                    "Fisher",
+                    "William Sealy Gosset",
+                    "Bayes"
+                ],
+                "respuesta_correcta": "William Sealy Gosset"
+            },
+            {
+                "pregunta": "¿Quién es famoso por su trabajo en la teoría de números primos y la función zeta de Riemann?",
+                "opciones": [
+                    "Gauss",
+                    "Riemann",
+                    "Euler",
+                    "Fermat"
+                ],
+                "respuesta_correcta": "Riemann"
+            },
+            {
+                "pregunta": "¿Cuál de los siguientes matemáticos no es conocido por sus contribuciones a la teoría de la relatividad?",
+                "opciones": [
+                    "Isaac Newton",
+                    "Albert Einstein",
+                    "Hermann Minkowski",
+                    "Felix Klein"
+                ],
+                "respuesta_correcta": "Isaac Newton"
+            },
+        ],
+        "experto": [
+            {
+                "pregunta": "¿Cuál es el nombre del fisico que desarrolló la teoría de la relatividad?",
+                "opciones": [
+                    "Gauss",
+                    "Einstein",
+                    "Newton",
+                    "Hawking"
+                ],
+                "respuesta_correcta": "Einstein"
+            },
+            {
+                "pregunta": "¿Cuál de las siguientes es una medida de dispersión en estadísticas?",
+                "opciones": [
+                    "Media",
+                    "Moda",
+                    "Curtosis",
+                    "Kurtosis"
+                ],
+                "respuesta_correcta": "Curtosis"
+            },
+            {
+                "pregunta": "¿Quién formuló la conjetura que sugiere que todo número par mayor que 2 es la suma de dos números primos?",
+                "opciones": [
+                    "Gauss",
+                    "Fermat",
+                    "Goldbach",
+                    "Euler"
+                ],
+                "respuesta_correcta": "Goldbach"
+            },
+            {
+                "pregunta": "¿Qué matemático es conocido por sus contribuciones a la teoría de números y su Último Teorema?",
+                "opciones": [
+                    "Pierre-Simon Laplace",
+                    "Isaac Newton",
+                    "Leonhard Euler",
+                    "Andrew Wiles"
+                ],
+                "respuesta_correcta": "Andrew Wiles"
+            },
+            {
+                "pregunta": "¿Quién es conocido por su contribución a la teoría de juegos y la estrategia en matemáticas?",
+                "opciones": [
+                    "Nash",
+                    "Turing",
+                    "Fermat",
+                    "Ramanujan"
+                ],
+                "respuesta_correcta": "Nash"
+            }
+        ]
+    }
+}

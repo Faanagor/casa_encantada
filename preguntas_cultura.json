@@ -1,0 +1,212 @@
+{
+    "cultura": {
+        "facil": [
+            {
+                "pregunta": "¿Qué baile es típico de Argentina?",
+                "opciones": [
+                    "Samba",
+                    "Flamenco",
+                    "Tango",
+                    "Ballet"
+                ],
+                "respuesta_correcta": "Tango"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre de la fiesta tradicional japonesa de los cerezos en flor?",
+                "opciones": [
+                    "Holi",
+                    "Diwali",
+                    "Hanami",
+                    "Navidad"
+                ],
+                "respuesta_correcta": "Hanami"
+            },
+            {
+                "pregunta": "¿Quién escribió la obra 'Cien años de soledad'?",
+                "opciones": [
+                    "Mario Vargas Llosa",
+                    "Gabriel García Márquez",
+                    "Isabel Allende",
+                    "Pablo Neruda"
+                ],
+                "respuesta_correcta": "Gabriel García Márquez"
+            },
+            {
+                "pregunta": "¿Cuál es la bebida tradicional de Rusia hecha a base de aguardiente y eneldo?",
+                "opciones": [
+                    "Vodka",
+                    "Tequila",
+                    "Whisky",
+                    "Rum"
+                ],
+                "respuesta_correcta": "Vodka"
+            },
+            {
+                "pregunta": "¿Qué famosa danza hawaiana se caracteriza por movimientos suaves y ondulantes?",
+                "opciones": [
+                    "Flamenco",
+                    "Hula",
+                    "Samba",
+                    "Belly dance"
+                ],
+                "respuesta_correcta": "Hula"
+            }
+        ],
+        "medio": [
+            {
+                "pregunta": "¿Cuál es la técnica japonesa de plegado de papel?",
+                "opciones": [
+                    "Origami",
+                    "Sumi-e",
+                    "Ikebana",
+                    "Kintsugi"
+                ],
+                "respuesta_correcta": "Origami"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del festival hindú de la luz que celebra la victoria del bien sobre el mal?",
+                "opciones": [
+                    "Holi",
+                    "Diwali",
+                    "Navratri",
+                    "Raksha Bandhan"
+                ],
+                "respuesta_correcta": "Diwali"
+            },
+            {
+                "pregunta": "¿En qué país se originó el tango?",
+                "opciones": [
+                    "Brasil",
+                    "Argentina",
+                    "España",
+                    "Cuba"
+                ],
+                "respuesta_correcta": "Argentina"
+            },
+            {
+                "pregunta": "¿Qué movimiento artístico y cultural se originó en Harlem, Nueva York, durante la década de 1920?",
+                "opciones": [
+                    "Impresionismo",
+                    "Renacimiento",
+                    "Barroco",
+                    "Harlem Renaissance"
+                ],
+                "respuesta_correcta": "Harlem Renaissance"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre de la danza tradicional de Irlanda caracterizada por pasos rítmicos y zapateados?",
+                "opciones": [
+                    "Salsa",
+                    "Flamenco",
+                    "Jazz",
+                    "Irish step dance"
+                ],
+                "respuesta_correcta": "Irish step dance"
+            }
+        ],
+        "dificil": [
+            {
+                "pregunta": "¿Cuál es el nombre del filósofo alemán conocido por su teoría del 'Übermensch'?",
+                "opciones": [
+                    "Karl Marx",
+                    "Immanuel Kant",
+                    "Friedrich Nietzsche",
+                    "Hegel"
+                ],
+                "respuesta_correcta": "Friedrich Nietzsche"
+            },
+            {
+                "pregunta": "¿En qué país se encuentra la ciudad de Varanasi, uno de los lugares más sagrados del hinduismo?",
+                "opciones": [
+                    "Tailandia",
+                    "India",
+                    "Nepal",
+                    "Sri Lanka"
+                ],
+                "respuesta_correcta": "India"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del estilo arquitectónico caracterizado por arcos apuntados y vitrales, común en las catedrales góticas?",
+                "opciones": [
+                    "Románico",
+                    "Barroco",
+                    "Gótico",
+                    "Renacimiento"
+                ],
+                "respuesta_correcta": "Gótico"
+            },
+            {
+                "pregunta": "¿Quién fue el líder político sudafricano que luchó contra el apartheid y se convirtió en presidente de Sudáfrica?",
+                "opciones": [
+                    "Nelson Mandela",
+                    "Desmond Tutu",
+                    "F.W. de Klerk",
+                    "Thabo Mbeki"
+                ],
+                "respuesta_correcta": "Nelson Mandela"
+            },
+            {
+                "pregunta": "¿Cuál es el sistema de gobierno en el que el poder es ejercido por una sola persona con poder absoluto?",
+                "opciones": [
+                    "Democracia",
+                    "Monarquía absoluta",
+                    "Dictadura",
+                    "República"
+                ],
+                "respuesta_correcta": "Monarquía absoluta"
+            }
+        ],
+        "experto": [
+            {
+                "pregunta": "¿Cuál es el nombre de la filósofa y escritora francesa autora de 'El segundo sexo'?",
+                "opciones": [
+                    "Simone de Beauvoir",
+                    "Jean-Paul Sartre",
+                    "Sigmund Freud",
+                    "Hannah Arendt"
+                ],
+                "respuesta_correcta": "Simone de Beauvoir"
+            },
+            {
+                "pregunta": "¿Qué popular concurso de cocina es presentado por Gordon Ramsay y ha tenido versiones en varios países?",
+                "opciones": [
+                    "Top Chef",
+                    "MasterChef",
+                    "Hell's Kitchen",
+                    "Iron Chef"
+                ],
+                "respuesta_correcta": "MasterChef"
+            },
+            {
+                "pregunta": "¿Cuál es el sistema de gobierno en el que el poder es ejercido por el pueblo?",
+                "opciones": [
+                    "Monarquía",
+                    "Dictadura",
+                    "Democracia",
+                    "Teocracia"
+                ],
+                "respuesta_correcta": "Democracia"
+            },
+            {
+                "pregunta": "¿Cuál es el sistema de escritura inventado en la antigua Mesopotamia?",
+                "opciones": [
+                    "Jeroglíficos",
+                    "Cuneiforme",
+                    "Alfabeto",
+                    "Sánscrito"
+                ],
+                "respuesta_correcta": "Cuneiforme"
+            },
+            {
+                "pregunta": "¿Quién fue el líder revolucionario argentino que desempeñó un papel importante en la independencia de varios países de América del Sur?",
+                "opciones": [
+                    "Simón Bolívar",
+                    "José de San Martín",
+                    "Miguel Hidalgo",
+                    "Bernardo O'Higgins"
+                ],
+                "respuesta_correcta": "José de San Martín"
+            }
+        ]
+    }
+}

@@ -1,0 +1,212 @@
+{
+    "tecnologia": {
+        "facil": [
+            {
+                "pregunta": "¿Qué siglas representan la Unidad Central de Procesamiento en informática?",
+                "opciones": [
+                    "USB",
+                    "CPU",
+                    "RAM",
+                    "GPU"
+                ],
+                "respuesta_correcta": "CPU"
+            },
+            {
+                "pregunta": "¿Cuál es el sistema operativo más utilizado en teléfonos móviles?",
+                "opciones": [
+                    "Windows",
+                    "Linux",
+                    "iOS",
+                    "Android"
+                ],
+                "respuesta_correcta": "Android"
+            },
+            {
+                "pregunta": "¿Qué siglas representan el Protocolo de Transferencia de Hipertexto en internet?",
+                "opciones": [
+                    "HTML",
+                    "HTTP",
+                    "HTTPS",
+                    "FTP"
+                ],
+                "respuesta_correcta": "HTTP"
+            },
+            {
+                "pregunta": "¿Cuál de las siguientes empresas es conocida por su motor de búsqueda en línea?",
+                "opciones": [
+                    "Microsoft",
+                    "Apple",
+                    "Google",
+                    "Amazon"
+                ],
+                "respuesta_correcta": "Google"
+            },
+            {
+                "pregunta": "¿Qué dispositivo se utiliza para almacenar copias de seguridad de datos en computadoras?",
+                "opciones": [
+                    "Monitor",
+                    "Teclado",
+                    "Disco duro externo",
+                    "Impresora"
+                ],
+                "respuesta_correcta": "Disco duro externo"
+            }
+        ],
+        "medio": [
+            {
+                "pregunta": "¿Cuál es el estándar de comunicación inalámbrica utilizado en la mayoría de los dispositivos móviles y redes locales?",
+                "opciones": [
+                    "Bluetooth",
+                    "Wi-Fi",
+                    "NFC",
+                    "LTE"
+                ],
+                "respuesta_correcta": "Wi-Fi"
+            },
+            {
+                "pregunta": "¿Cuál de las siguientes empresas es conocida por su sistema operativo Windows?",
+                "opciones": [
+                    "Apple",
+                    "Google",
+                    "Microsoft",
+                    "IBM"
+                ],
+                "respuesta_correcta": "Microsoft"
+            },
+            {
+                "pregunta": "¿Qué siglas representan la Asociación de la Industria de la Electrónica de Consumo?",
+                "opciones": [
+                    "IEEE",
+                    "CIA",
+                    "CEA",
+                    "NSA"
+                ],
+                "respuesta_correcta": "CEA"
+            },
+            {
+                "pregunta": "¿Cuál es el lenguaje de programación ampliamente utilizado en el desarrollo web?",
+                "opciones": [
+                    "Java",
+                    "Python",
+                    "HTML",
+                    "C++"
+                ],
+                "respuesta_correcta": "HTML"
+            },
+            {
+                "pregunta": "¿Qué siglas representan el Protocolo de Transferencia de Archivos en internet?",
+                "opciones": [
+                    "HTML",
+                    "HTTP",
+                    "HTTPS",
+                    "FTP"
+                ],
+                "respuesta_correcta": "FTP"
+            }
+        ],
+        "dificil": [
+            {
+                "pregunta": "¿Cuál de las siguientes tecnologías se utiliza para almacenar datos de forma permanente en discos duros?",
+                "opciones": [
+                    "RAM",
+                    "EPROM",
+                    "HDD",
+                    "SSD"
+                ],
+                "respuesta_correcta": "HDD"
+            },
+            {
+                "pregunta": "¿Qué lenguaje de programación es ampliamente utilizado en el desarrollo de aplicaciones móviles para dispositivos iOS?",
+                "opciones": [
+                    "Java",
+                    "Python",
+                    "Swift",
+                    "C++"
+                ],
+                "respuesta_correcta": "Swift"
+            },
+            {
+                "pregunta": "¿Cuál es la tecnología que permite a los dispositivos cercanos intercambiar datos a través de comunicación inalámbrica?",
+                "opciones": [
+                    "Bluetooth",
+                    "Wi-Fi",
+                    "NFC",
+                    "LTE"
+                ],
+                "respuesta_correcta": "NFC"
+            },
+            {
+                "pregunta": "¿Cuál de las siguientes empresas es conocida por su sistema operativo macOS?",
+                "opciones": [
+                    "Apple",
+                    "Google",
+                    "Microsoft",
+                    "IBM"
+                ],
+                "respuesta_correcta": "Apple"
+            },
+            {
+                "pregunta": "¿Cuál es la sigla utilizada para describir el proceso de modificar el software o hardware de un dispositivo para que funcione fuera de sus especificaciones originales?",
+                "opciones": [
+                    "WIFI",
+                    "USB",
+                    "JAILBREAK",
+                    "VPN"
+                ],
+                "respuesta_correcta": "JAILBREAK"
+            }
+        ],
+        "experto": [
+            {
+                "pregunta": "¿Qué protocolo de red se utiliza para acceder a sitios web de manera segura a través de HTTPS?",
+                "opciones": [
+                    "SSH",
+                    "SSL",
+                    "TLS",
+                    "HTTP"
+                ],
+                "respuesta_correcta": "TLS"
+            },
+            {
+                "pregunta": "¿Cuál es el sistema operativo de código abierto basado en el kernel de Linux?",
+                "opciones": [
+                    "Windows",
+                    "iOS",
+                    "Android",
+                    "Ubuntu"
+                ],
+                "respuesta_correcta": "Ubuntu"
+            },
+            {
+                "pregunta": "¿Qué siglas representan el Estándar de Red Inalámbrica?",
+                "opciones": [
+                    "WEP",
+                    "WPA",
+                    "WiMAX",
+                    "WPA2"
+                ],
+                "respuesta_correcta": "WPA2"
+            },
+            {
+                "pregunta": "¿Cuál de las siguientes empresas es conocida por su sistema operativo Linux?",
+                "opciones": [
+                    "Apple",
+                    "Google",
+                    "Microsoft",
+                    "Linux Corporation"
+                ],
+                "respuesta_correcta": "Linux Corporation"
+            },
+            {
+                "pregunta": "¿Qué tecnología de almacenamiento de datos utiliza celdas de memoria para almacenar información de manera no volátil?",
+                "opciones": [
+                    "RAM",
+                    "EPROM",
+                    "HDD",
+                    "SSD"
+                ],
+                "respuesta_correcta": "SSD"
+            }
+        ]
+    }
+}

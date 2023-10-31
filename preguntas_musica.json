@@ -1,0 +1,112 @@
+{
+    "musica": {
+      "facil": [
+        {
+          "pregunta": "¿Quién es conocido como el 'Rey del Pop'?",
+          "opciones": ["Elvis Presley", "Frank Sinatra", "Michael Jackson", "Bob Dylan"],
+          "respuesta_correcta": "Michael Jackson"
+        },
+        {
+          "pregunta": "¿Cuál es el instrumento de viento que se toca en una banda sinfónica y tiene una caña doble?",
+          "opciones": ["Saxofón", "Trompeta", "Clarinete", "Flauta"],
+          "respuesta_correcta": "Clarinete"
+        },
+        {
+          "pregunta": "¿Cuál de estos géneros musicales se originó en Jamaica?",
+          "opciones": ["Rock and roll", "Reggae", "Country", "Hip-hop"],
+          "respuesta_correcta": "Reggae"
+        },
+        {
+          "pregunta": "¿Qué famosa banda británica liderada por Mick Jagger se formó en 1962?",
+          "opciones": ["The Beatles", "The Who", "The Rolling Stones", "Led Zeppelin"],
+          "respuesta_correcta": "The Rolling Stones"
+        },
+        {
+          "pregunta": "¿Quién compuso 'La Novena Sinfonía'?",
+          "opciones": ["Ludwig van Beethoven", "Wolfgang Amadeus Mozart", "Johann Sebastian Bach", "Antonio Vivaldi"],
+          "respuesta_correcta": "Ludwig van Beethoven"
+        }
+      ],
+      "medio": [
+        {
+          "pregunta": "¿Cuál es el álbum más vendido de todos los tiempos?",
+          "opciones": ["Thriller - Michael Jackson", "The Dark Side of the Moon - Pink Floyd", "Back in Black - AC/DC", "Abbey Road - The Beatles"],
+          "respuesta_correcta": "Thriller - Michael Jackson"
+        },
+        {
+          "pregunta": "¿Quién fue el vocalista de la banda Queen?",
+          "opciones": ["Elton John", "Freddie Mercury", "David Bowie", "Bono"],
+          "respuesta_correcta": "Freddie Mercury"
+        },
+        {
+          "pregunta": "¿En qué ciudad estadounidense se originó el hip-hop?",
+          "opciones": ["Nueva York", "Los Ángeles", "Chicago", "Atlanta"],
+          "respuesta_correcta": "Nueva York"
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes artistas es conocido por su papel en la película 'Purple Rain' y su música?",
+          "opciones": ["Stevie Wonder", "Prince", "James Brown", "David Bowie"],
+          "respuesta_correcta": "Prince"
+        },
+        {
+          "pregunta": "¿Cuál es el término musical italiano que significa 'poco a poco' o 'poco a poco más rápido'?",
+          "opciones": ["Andante", "Allegro", "Crescendo", "Adagio"],
+          "respuesta_correcta": "Crescendo"
+        }
+      ],
+      "dificil": [
+        {
+          "pregunta": "¿Cuál es el título de la ópera de Giacomo Puccini que presenta la famosa aria 'Nessun Dorma'?",
+          "opciones": ["Carmen", "Rigoletto", "Turandot", "La Traviata"],
+          "respuesta_correcta": "Turandot"
+        },
+        {
+          "pregunta": "¿Qué famoso guitarrista de blues es conocido como 'Rey del Lucille'?",
+          "opciones": ["Eric Clapton", "Jimi Hendrix", "B.B. King", "Stevie Ray Vaughan"],
+          "respuesta_correcta": "B.B. King"
+        },
+        {
+          "pregunta": "¿Cuál es la canción más larga de la historia de Billboard Hot 100, interpretada por Mariah Carey y Boyz II Men?",
+          "opciones": ["Yesterday", "One Sweet Day", "Bohemian Rhapsody", "Hotel California"],
+          "respuesta_correcta": "One Sweet Day"
+        },
+        {
+          "pregunta": "¿Quién fue el compositor austríaco conocido por su 'Música Nocturna de las Calles de Madrid'?",
+          "opciones": ["Wolfgang Amadeus Mozart", "Ludwig van Beethoven", "Franz Joseph Haydn", "Luigi Boccherini"],
+          "respuesta_correcta": "Luigi Boccherini"
+        },
+        {
+          "pregunta": "¿En qué década se formó la banda de rock 'Led Zeppelin'?",
+          "opciones": ["1960", "1970", "1980", "1990"],
+          "respuesta_correcta": "1960"
+        }
+      ],
+      "experto": [
+        {
+          "pregunta": "¿Cuál de los siguientes compositores es considerado uno de los 'Tres Grandes' del período clásico vienés?",
+          "opciones": ["Ludwig van Beethoven", "Wolfgang Amadeus Mozart", "Franz Joseph Haydn", "Antonio Salieri"],
+          "respuesta_correcta": "Franz Joseph Haydn"
+        },
+        {
+          "pregunta": "¿Quién compuso la famosa obra 'El lago de los cisnes'?",
+          "opciones": ["Piotr Ilich Chaikovski", "Igor Stravinski", "Sergei Prokofiev", "Antonín Dvorák"],
+          "respuesta_correcta": "Piotr Ilich Chaikovski"
+        },
+        {
+          "pregunta": "¿Cuál es el término musical italiano que significa 'muy rápido'?",
+          "opciones": ["Vivace", "Prestissimo", "Adagio", "Largo"],
+          "respuesta_correcta": "Prestissimo"
+        },
+        {
+          "pregunta": "¿Qué famoso compositor austriaco es conocido por sus sinfonías, conciertos y óperas, incluyendo 'Don Giovanni' y 'Las bodas de Fígaro'?",
+          "opciones": ["Franz Joseph Haydn", "Wolfgang Amadeus Mozart", "Ludwig van Beethoven", "Antonio Salieri"],
+          "respuesta_correcta": "Wolfgang Amadeus Mozart"
+        },
+        {
+          "pregunta": "¿Cuál es el término musical que indica un cambio gradual en volumen desde suave hasta fuerte?",
+          "opciones": ["Crescendo", "Decrescendo", "Andante", "Allegro"],
+          "respuesta_correcta": "Crescendo"
+        }
+      ]
+    }
+  }

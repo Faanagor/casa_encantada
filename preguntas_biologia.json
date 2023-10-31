@@ -1,0 +1,212 @@
+{
+    "biologia": {
+        "facil": [
+            {
+                "pregunta": "¿Cuál es el animal terrestre más grande del mundo?",
+                "opciones": [
+                    "Elefante africano",
+                    "Gorila",
+                    "Jirafa",
+                    "Ballena azul"
+                ],
+                "respuesta_correcta": "Elefante africano"
+            },
+            {
+                "pregunta": "¿Cuál es el proceso mediante el cual las plantas producen su propio alimento?",
+                "opciones": [
+                    "Fotosíntesis",
+                    "Respiración",
+                    "Digestión",
+                    "Crecimiento"
+                ],
+                "respuesta_correcta": "Fotosíntesis"
+            },
+            {
+                "pregunta": "¿Cuál es el órgano principal del sistema circulatorio humano?",
+                "opciones": [
+                    "Cerebro",
+                    "Pulmón",
+                    "Piel",
+                    "Corazón"
+                ],
+                "respuesta_correcta": "Corazón"
+            },
+            {
+                "pregunta": "¿Qué ave no puede volar y es conocida por ser un símbolo de Nueva Zelanda?",
+                "opciones": [
+                    "Águila calva",
+                    "Kakapo",
+                    "Pingüino emperador",
+                    "Halcon peregrino"
+                ],
+                "respuesta_correcta": "Kakapo"
+            },
+            {
+                "pregunta": "¿Cuál es el proceso de división celular que da lugar a dos células hijas genéticamente idénticas?",
+                "opciones": [
+                    "Meiosis",
+                    "Mitosis",
+                    "Fermentación",
+                    "Reproducción asexual"
+                ],
+                "respuesta_correcta": "Mitosis"
+            }
+        ],
+        "medio": [
+            {
+                "pregunta": "¿Cuál es el depredador más grande de la Tierra?",
+                "opciones": [
+                    "Orca",
+                    "Tiburón blanco",
+                    "León",
+                    "Oso polar"
+                ],
+                "respuesta_correcta": "Tiburón blanco"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre de la capa más externa de la piel humana?",
+                "opciones": [
+                    "Epidermis",
+                    "Dermis",
+                    "Hipodermis",
+                    "Esmalte"
+                ],
+                "respuesta_correcta": "Epidermis"
+            },
+            {
+                "pregunta": "¿Cuál es el proceso de descomposición de sustancias orgánicas por acción de microorganismos?",
+                "opciones": [
+                    "Fotosíntesis",
+                    "Fermentación",
+                    "Descomposición",
+                    "Respiración"
+                ],
+                "respuesta_correcta": "Fermentación"
+            },
+            {
+                "pregunta": "¿Cuál de las siguientes plantas es conocida por su savia lechosa y se asocia comúnmente con los jardines desérticos?",
+                "opciones": [
+                    "Cactus",
+                    "Bambú",
+                    "Palmera",
+                    "Orquídea"
+                ],
+                "respuesta_correcta": "Cactus"
+            },
+            {
+                "pregunta": "¿Qué órgano del cuerpo humano es responsable de producir insulina?",
+                "opciones": [
+                    "Páncreas",
+                    "Hígado",
+                    "Riñón",
+                    "Corazón"
+                ],
+                "respuesta_correcta": "Páncreas"
+            }
+        ],
+        "dificil": [
+            {
+                "pregunta": "¿Cuál es el proceso de división celular que da lugar a células sexuales haploides?",
+                "opciones": [
+                    "Mitosis",
+                    "Meiosis",
+                    "Fermentación",
+                    "Reproducción asexual"
+                ],
+                "respuesta_correcta": "Meiosis"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del organismo unicelular que es conocido por ser la unidad básica de la vida?",
+                "opciones": [
+                    "Virus",
+                    "Bacteria",
+                    "Célula",
+                    "Protozoo"
+                ],
+                "respuesta_correcta": "Célula"
+            },
+            {
+                "pregunta": "¿Cuál de las siguientes plantas es conocida por su flor gigante y fetidez, y a menudo se asocia con Indonesia?",
+                "opciones": [
+                    "Orquídea",
+                    "Lirio",
+                    "Flor de la pasión",
+                    "Rafflesia arnoldii"
+                ],
+                "respuesta_correcta": "Rafflesia arnoldii"
+            },
+            {
+                "pregunta": "¿Cuál es el proceso de formación de ATP en la respiración celular?",
+                "opciones": [
+                    "Gluconeogénesis",
+                    "Fosforilación oxidativa",
+                    "Fermentación láctica",
+                    "Beta-oxidación"
+                ],
+                "respuesta_correcta": "Fosforilación oxidativa"
+            },
+            {
+                "pregunta": "¿Cuál de las siguientes aves es conocida por su capacidad de mimetismo y canto impresionante?",
+                "opciones": [
+                    "Gavilán",
+                    "Loro",
+                    "Ruiseñor",
+                    "Avestruz"
+                ],
+                "respuesta_correcta": "Ruiseñor"
+            }
+        ],
+        "experto": [
+            {
+                "pregunta": "¿Cuál es el nombre del biólogo que desarrolló la teoría de la evolución por selección natural?",
+                "opciones": [
+                    "Louis Pasteur",
+                    "Charles Darwin",
+                    "Gregor Mendel",
+                    "Alfred Wallace"
+                ],
+                "respuesta_correcta": "Charles Darwin"
+            },
+            {
+                "pregunta": "¿Cuál es el proceso mediante el cual las plantas obtienen agua y nutrientes del suelo?",
+                "opciones": [
+                    "Fotosíntesis",
+                    "Transpiración",
+                    "Absorción radicular",
+                    "Respiración"
+                ],
+                "respuesta_correcta": "Absorción radicular"
+            },
+            {
+                "pregunta": "¿Cuál es el proceso de descomposición de sustancias orgánicas en ausencia de oxígeno?",
+                "opciones": [
+                    "Fermentación",
+                    "Putrefacción",
+                    "Descomposición",
+                    "Respiración anaeróbica"
+                ],
+                "respuesta_correcta": "Fermentación"
+            },
+            {
+                "pregunta": "¿Cuál es el órgano del cuerpo humano encargado de producir bilis y descomponer grasas?",
+                "opciones": [
+                    "Hígado",
+                    "Páncreas",
+                    "Riñón",
+                    "Estómago"
+                ],
+                "respuesta_correcta": "Hígado"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del científico sueco que estableció el sistema de nomenclatura binomial para la clasificación de seres vivos?",
+                "opciones": [
+                    "Louis Pasteur",
+                    "Gregor Mendel",
+                    "Carl Linnaeus",
+                    "Anton van Leeuwenhoek"
+                ],
+                "respuesta_correcta": "Carl Linnaeus"
+            }
+        ]
+    }
+}

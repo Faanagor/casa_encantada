@@ -1,0 +1,10 @@
+question: ¿Qué importante enclave arqueológico se encuentra en Jordania?
+answer: 
+question:
+answer:
+¿En qué estado de EE. UU. se encuentra la ciudad de Orlando?
+
+[[{'category': 'geography', 'question': 'On what river is the capital city of Canada', 'answer': 'Ottawa'}],
+[{'category': 'music', 'question': 'Who Had A Hit In 1987 With The Song Angel Eyes', 'answer': 'Wet Wet Wet'}],
+[{'category': 'entertainment', 'question': 'Where did George of the Jungle live', 'answer': 'Imgwee Gwee Valley'}], [{'category': 'geography', 'question': 'What is the capital of Jordan ?', 'answer': 'Amman'}], [{'category': 'music', 'question': 'Which Band Sang The Title Track To The Movie weird Science', 'answer': 'Oingo Boingo'}], [{'category': 'general', 'question': 'What is the U.S. equivalent of the S.A.S.', 'answer': 'Delta Force'}], [{'category': 'entertainment', 'question': 'Which large tuned orchestral drum is also known as a kettledrum?', 'answer': 'Tympani'}], [{'category': 'music', 'question': 'Who Became Famous For Kung Fu Fighting', 'answer': 'Carl Douglas'}], [{'category': 'geography', 'question': 'The majestic ______________, popular honeymoon site for newlyweds located in both New York Ontario, was named after the Mohawk Indian word meaning "thunder of waters".', 'answer': 'Niagara Falls'}], 
+[{'category': 'sciencenature', 'question': 'What Is The Scientific Study Of Birds Called? ', 'answer': 'Ornithology'}]]

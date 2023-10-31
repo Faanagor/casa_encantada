@@ -1,0 +1,212 @@
+{
+    "cine": {
+        "facil": [
+            {
+                "pregunta": "¿Quién interpretó a Harry Potter en la serie de películas?",
+                "opciones": [
+                    "Rupert Grint",
+                    "Daniel Radcliffe",
+                    "Tom Felton",
+                    "Emma Watson"
+                ],
+                "respuesta_correcta": "Daniel Radcliffe"
+            },
+            {
+                "pregunta": "¿Cuál es la película animada de Disney que presenta a Simba como el personaje principal?",
+                "opciones": [
+                    "La Sirenita",
+                    "Blancanieves y los Siete Enanitos",
+                    "El Rey León",
+                    "Mulan"
+                ],
+                "respuesta_correcta": "El Rey León"
+            },
+            {
+                "pregunta": "¿Quién dirigió la trilogía 'El Señor de los Anillos'?",
+                "opciones": [
+                    "Steven Spielberg",
+                    "George Lucas",
+                    "James Cameron",
+                    "Peter Jackson"
+                ],
+                "respuesta_correcta": "Peter Jackson"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del actor que interpretó a Jack Dawson en 'Titanic'?",
+                "opciones": [
+                    "Brad Pitt",
+                    "Johnny Depp",
+                    "Leonardo DiCaprio",
+                    "Tom Hanks"
+                ],
+                "respuesta_correcta": "Leonardo DiCaprio"
+            },
+            {
+                "pregunta": "¿En qué película icónica interpreta Humphrey Bogart a Rick Blaine?",
+                "opciones": [
+                    "Casablanca",
+                    "El Padrino",
+                    "Lo que el viento se llevó",
+                    "Desayuno con diamantes"
+                ],
+                "respuesta_correcta": "Casablanca"
+            }
+        ],
+        "medio": [
+            {
+                "pregunta": "¿Cuál es el nombre del director de la película 'La lista de Schindler'?",
+                "opciones": [
+                    "Quentin Tarantino",
+                    "Steven Spielberg",
+                    "Martin Scorsese",
+                    "Christopher Nolan"
+                ],
+                "respuesta_correcta": "Steven Spielberg"
+            },
+            {
+                "pregunta": "¿En qué serie de televisión se encuentra el Trono de Hierro?",
+                "opciones": [
+                    "Breaking Bad",
+                    "Game of Thrones",
+                    "Friends",
+                    "The Walking Dead"
+                ],
+                "respuesta_correcta": "Game of Thrones"
+            },
+            {
+                "pregunta": "¿Qué actor interpreta al personaje de Tony Stark/Iron Man en el Universo Cinematográfico de Marvel?",
+                "opciones": [
+                    "Chris Evans",
+                    "Chris Hemsworth",
+                    "Robert Downey Jr.",
+                    "Mark Ruffalo"
+                ],
+                "respuesta_correcta": "Robert Downey Jr."
+            },
+            {
+                "pregunta": "¿Cuál es el nombre de la película de Quentin Tarantino que presenta a un personaje llamado Jules Winnfield?",
+                "opciones": [
+                    "Pulp Fiction",
+                    "Reservoir Dogs",
+                    "Kill Bill",
+                    "Django Unchained"
+                ],
+                "respuesta_correcta": "Pulp Fiction"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del actor que interpretó a James Bond en 'GoldenEye'?",
+                "opciones": [
+                    "Pierce Brosnan",
+                    "Sean Connery",
+                    "Roger Moore",
+                    "Daniel Craig"
+                ],
+                "respuesta_correcta": "Pierce Brosnan"
+            }
+        ],
+        "dificil": [
+            {
+                "pregunta": "¿En qué película icónica interpreta Meryl Streep a Margaret Thatcher?",
+                "opciones": [
+                    "La dama de hierro",
+                    "Julie & Julia",
+                    "El diablo viste de Prada",
+                    "Kramer vs. Kramer"
+                ],
+                "respuesta_correcta": "La dama de hierro"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del personaje interpretado por Anthony Hopkins en 'El silencio de los corderos'?",
+                "opciones": [
+                    "Hannibal Lecter",
+                    "Norman Bates",
+                    "Freddy Krueger",
+                    "Jason Voorhees"
+                ],
+                "respuesta_correcta": "Hannibal Lecter"
+            },
+            {
+                "pregunta": "¿En qué película Christopher Nolan dirige a Leonardo DiCaprio en un mundo de sueños compartidos?",
+                "opciones": [
+                    "El Origen",
+                    "Interstellar",
+                    "Origen",
+                    "Memento"
+                ],
+                "respuesta_correcta": "El Origen"
+            },
+            {
+                "pregunta": "¿Quién es el actor que interpretó a King Kong en la película de 1933?",
+                "opciones": [
+                    "Boris Karloff",
+                    "Lon Chaney Jr.",
+                    "Max Schreck",
+                    "Fay Wray"
+                ],
+                "respuesta_correcta": "Max Schreck"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del actor que interpretó a Tony Montana en 'Scarface'?",
+                "opciones": [
+                    "Al Pacino",
+                    "Robert De Niro",
+                    "Marlon Brando",
+                    "Joe Pesci"
+                ],
+                "respuesta_correcta": "Al Pacino"
+            }
+        ],
+        "experto": [
+            {
+                "pregunta": "¿Quién es el director de la película '2001: Una odisea del espacio'?",
+                "opciones": [
+                    "Stanley Kubrick",
+                    "Martin Scorsese",
+                    "Francis Ford Coppola",
+                    "Steven Spielberg"
+                ],
+                "respuesta_correcta": "Stanley Kubrick"
+            },
+            {
+                "pregunta": "¿En qué película icónica interpreta Anthony Perkins a Norman Bates?",
+                "opciones": [
+                    "Psicosis",
+                    "La ventana indiscreta",
+                    "El resplandor",
+                    "El silencio de los corderos"
+                ],
+                "respuesta_correcta": "Psicosis"
+            },
+            {
+                "pregunta": "¿Quién es el actor que interpretó a Gandalf en la trilogía de 'El Señor de los Anillos'?",
+                "opciones": [
+                    "Ian Holm",
+                    "Ian McKellen",
+                    "Christopher Lee",
+                    "Hugo Weaving"
+                ],
+                "respuesta_correcta": "Ian McKellen"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del personaje principal en la obra de teatro 'Hamlet' de William Shakespeare?",
+                "opciones": [
+                    "Romeo",
+                    "Macbeth",
+                    "Othello",
+                    "Hamlet"
+                ],
+                "respuesta_correcta": "Hamlet"
+            },
+            {
+                "pregunta": "¿Quién interpretó a Clarice Starling en 'El silencio de los corderos'?",
+                "opciones": [
+                    "Holly Hunter",
+                    "Jodie Foster",
+                    "Meryl Streep",
+                    "Sigourney Weaver"
+                ],
+                "respuesta_correcta": "Jodie Foster"
+            }
+        ]
+    }
+}

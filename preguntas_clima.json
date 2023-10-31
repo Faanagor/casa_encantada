@@ -1,0 +1,212 @@
+{
+    "clima": {
+        "facil": [
+            {
+                "pregunta": "¿Cuál es el gas más abundante en la atmósfera de la Tierra?",
+                "opciones": [
+                    "Oxígeno",
+                    "Nitrógeno",
+                    "Dióxido de carbono (CO2)",
+                    "Argón"
+                ],
+                "respuesta_correcta": "Nitrógeno"
+            },
+            {
+                "pregunta": "¿Qué fenómeno atmosférico causa la formación de arcoíris?",
+                "opciones": [
+                    "Tornado",
+                    "Huracán",
+                    "Lluvia ácida",
+                    "Refracción de la luz en gotas de agua"
+                ],
+                "respuesta_correcta": "Refracción de la luz en gotas de agua"
+            },
+            {
+                "pregunta": "¿Cuál de los siguientes no es un gas de efecto invernadero?",
+                "opciones": [
+                    "Dióxido de carbono (CO2)",
+                    "Metano (CH4)",
+                    "Oxígeno (O2)",
+                    "Vapor de agua (H2O)"
+                ],
+                "respuesta_correcta": "Oxígeno (O2)"
+            },
+            {
+                "pregunta": "¿Cuál es el proceso natural que regula la concentración de oxígeno y dióxido de carbono en la atmósfera?",
+                "opciones": [
+                    "Fotosíntesis",
+                    "Respiración",
+                    "Efecto invernadero",
+                    "Fotosfera"
+                ],
+                "respuesta_correcta": "Fotosíntesis"
+            },
+            {
+                "pregunta": "¿Cuál es el término para la pérdida de biodiversidad debido a la acción humana?",
+                "opciones": [
+                    "Desertificación",
+                    "Contaminación",
+                    "Deforestación",
+                    "Extinción"
+                ],
+                "respuesta_correcta": "Extinción"
+            }
+        ],
+        "medio": [
+            {
+                "pregunta": "¿Qué acuerdo internacional busca abordar el cambio climático limitando el calentamiento global?",
+                "opciones": [
+                    "Acuerdo de París",
+                    "Protocolo de Kioto",
+                    "Tratado de Montreal",
+                    "Acuerdo de Copenhague"
+                ],
+                "respuesta_correcta": "Acuerdo de París"
+            },
+            {
+                "pregunta": "¿Cuál es el término para la acumulación de sustancias dañinas en el medio ambiente, como en ríos o lagos?",
+                "opciones": [
+                    "Erosión",
+                    "Polución",
+                    "Eutrofización",
+                    "Sedimentación"
+                ],
+                "respuesta_correcta": "Eutrofización"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del agujero en la capa de ozono que se encuentra sobre la Antártida?",
+                "opciones": [
+                    "Agujero de Manzanares",
+                    "Agujero de Santiago",
+                    "Agujero de Ozono",
+                    "Agujero de la Antártida"
+                ],
+                "respuesta_correcta": "Agujero de Ozono"
+            },
+            {
+                "pregunta": "¿Cuál de los siguientes no es un recurso natural renovable?",
+                "opciones": [
+                    "Energía solar",
+                    "Petróleo",
+                    "Viento",
+                    "Agua dulce"
+                ],
+                "respuesta_correcta": "Petróleo"
+            },
+            {
+                "pregunta": "¿Cuál es el término para la pérdida de suelo fértil debido a la erosión y prácticas agrícolas inadecuadas?",
+                "opciones": [
+                    "Salinización",
+                    "Desertificación",
+                    "Erosión",
+                    "Sedimentación"
+                ],
+                "respuesta_correcta": "Desertificación"
+            }
+        ],
+        "dificil": [
+            {
+                "pregunta": "¿Cuál es el proceso natural que libera dióxido de carbono a la atmósfera debido a la actividad volcánica?",
+                "opciones": [
+                    "Fotosíntesis",
+                    "Respiración",
+                    "Efecto invernadero",
+                    "Vulcanismo"
+                ],
+                "respuesta_correcta": "Vulcanismo"
+            },
+            {
+                "pregunta": "¿Qué elemento químico es un componente clave en la formación del ozono en la estratosfera?",
+                "opciones": [
+                    "Hidrógeno",
+                    "Nitrógeno",
+                    "Cloro",
+                    "Oxígeno"
+                ],
+                "respuesta_correcta": "Cloro"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre de la capa de la atmósfera terrestre que contiene la mayoría del ozono?",
+                "opciones": [
+                    "Troposfera",
+                    "Estratosfera",
+                    "Mesosfera",
+                    "Termosfera"
+                ],
+                "respuesta_correcta": "Estratosfera"
+            },
+            {
+                "pregunta": "¿Qué fenómeno climático se caracteriza por temperaturas del agua cálidas en el océano Pacífico tropical?",
+                "opciones": [
+                    "El Niño",
+                    "La Niña",
+                    "Oscilación del Atlántico Norte (NAO)",
+                    "Ciclones tropicales"
+                ],
+                "respuesta_correcta": "El Niño"
+            },
+            {
+                "pregunta": "¿Cuál es el proceso de liberación de calor por parte de la Tierra hacia el espacio?",
+                "opciones": [
+                    "Calentamiento global",
+                    "Efecto invernadero",
+                    "Radiación terrestre",
+                    "Fotosíntesis"
+                ],
+                "respuesta_correcta": "Radiación terrestre"
+            }
+        ],
+        "experto": [
+            {
+                "pregunta": "¿Qué término se utiliza para describir la desaparición de especies debido a la actividad humana?",
+                "opciones": [
+                    "Extinción masiva",
+                    "Holoceno",
+                    "Antropoceno",
+                    "Sexta extinción masiva"
+                ],
+                "respuesta_correcta": "Sexta extinción masiva"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del proceso de cambio climático inducido por la actividad humana?",
+                "opciones": [
+                    "Variabilidad climática",
+                    "Calentamiento global",
+                    "Cambio climático",
+                    "Efecto invernadero"
+                ],
+                "respuesta_correcta": "Cambio climático"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del fenómeno climático opuesto a 'El Niño'?",
+                "opciones": [
+                    "La Niña",
+                    "Oscilación del Atlántico Norte (NAO)",
+                    "Fenómeno de la Nina",
+                    "Corriente en chorro"
+                ],
+                "respuesta_correcta": "La Niña"
+            },
+            {
+                "pregunta": "¿Cuál es el término para la presencia excesiva de sustancias químicas o nutrientes en cuerpos de agua, que conduce a problemas ambientales?",
+                "opciones": [
+                    "Eutrofización",
+                    "Contaminación térmica",
+                    "Sedimentación",
+                    "Polución química"
+                ],
+                "respuesta_correcta": "Eutrofización"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del fenómeno atmosférico que causa la inversión térmica y la retención de contaminantes en la atmósfera?",
+                "opciones": [
+                    "Smog",
+                    "Inversión térmica",
+                    "Lluvia ácida",
+                    "Efecto invernadero"
+                ],
+                "respuesta_correcta": "Inversión térmica"
+            }
+        ]
+    }
+}

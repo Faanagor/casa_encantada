@@ -1,0 +1,212 @@
+{
+    "industria": {
+        "facil": [
+            {
+                "pregunta": "¿Cuál de los siguientes no es un metal comúnmente utilizado en la industria de la construcción?",
+                "opciones": [
+                    "Hierro",
+                    "Aluminio",
+                    "Cobre",
+                    "Plomo"
+                ],
+                "respuesta_correcta": "Plomo"
+            },
+            {
+                "pregunta": "¿Qué tipo de energía utiliza una turbina eólica para generar electricidad?",
+                "opciones": [
+                    "Energía solar",
+                    "Energía hidroeléctrica",
+                    "Energía eólica",
+                    "Energía nuclear"
+                ],
+                "respuesta_correcta": "Energía eólica"
+            },
+            {
+                "pregunta": "¿Cuál es la máquina que se utiliza para levantar objetos pesados en la industria de la construcción?",
+                "opciones": [
+                    "Martillo",
+                    "Taladro",
+                    "Grúa",
+                    "Excavadora"
+                ],
+                "respuesta_correcta": "Grúa"
+            },
+            {
+                "pregunta": "¿Cuál es el proceso de proteger el hierro y el acero contra la corrosión mediante la aplicación de una capa de zinc?",
+                "opciones": [
+                    "Galvanización",
+                    "Reciclaje",
+                    "Forjado",
+                    "Cromado"
+                ],
+                "respuesta_correcta": "Galvanización"
+            },
+            {
+                "pregunta": "¿Cuál es la rama de la ingeniería que se enfoca en el diseño y construcción de estructuras civiles como puentes y edificios?",
+                "opciones": [
+                    "Ingeniería eléctrica",
+                    "Ingeniería química",
+                    "Ingeniería civil",
+                    "Ingeniería informática"
+                ],
+                "respuesta_correcta": "Ingeniería civil"
+            }
+        ],
+        "medio": [
+            {
+                "pregunta": "¿Cuál es el proceso de calentamiento de un metal a una temperatura muy alta y luego enfriarlo rápidamente para cambiar su estructura cristalina?",
+                "opciones": [
+                    "Forjado",
+                    "Cromado",
+                    "Recocido",
+                    "Temple"
+                ],
+                "respuesta_correcta": "Temple"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre de la máquina utilizada en la fabricación de piezas metálicas mediante la eliminación de material en bruto?",
+                "opciones": [
+                    "Torno",
+                    "Fresadora",
+                    "Prensa hidráulica",
+                    "Sierra circular"
+                ],
+                "respuesta_correcta": "Fresadora"
+            },
+            {
+                "pregunta": "¿Qué tipo de material se utiliza comúnmente en la fabricación de cables eléctricos debido a su conductividad?",
+                "opciones": [
+                    "Cobre",
+                    "Aluminio",
+                    "Acero inoxidable",
+                    "Plomo"
+                ],
+                "respuesta_correcta": "Cobre"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre de la máquina que se utiliza para cortar metales con precisión, utilizando un rayo láser?",
+                "opciones": [
+                    "Taladro de columna",
+                    "Sierra de cinta",
+                    "Prensa hidráulica",
+                    "Máquina de corte por láser"
+                ],
+                "respuesta_correcta": "Máquina de corte por láser"
+            },
+            {
+                "pregunta": "¿Cuál es el proceso de convertir un material en bruto en una forma final mediante una variedad de operaciones de mecanizado?",
+                "opciones": [
+                    "Fundición",
+                    "Forjado",
+                    "Moldeo por inyección",
+                    "Mecanizado"
+                ],
+                "respuesta_correcta": "Mecanizado"
+            }
+        ],
+        "dificil": [
+            {
+                "pregunta": "¿Cuál es el proceso de fabricación que implica la formación de metal a altas temperaturas y presiones?",
+                "opciones": [
+                    "Fundición",
+                    "Forjado",
+                    "Soldadura",
+                    "Galvanización"
+                ],
+                "respuesta_correcta": "Forjado"
+            },
+            {
+                "pregunta": "¿Qué tipo de motor convierte la energía térmica en energía mecánica al expandir un gas?",
+                "opciones": [
+                    "Motor de combustión interna",
+                    "Motor eléctrico",
+                    "Motor de reacción",
+                    "Motor de vapor"
+                ],
+                "respuesta_correcta": "Motor de vapor"
+            },
+            {
+                "pregunta": "¿Qué metal es conocido por su alta resistencia a la corrosión y se utiliza en aplicaciones marinas y aeroespaciales?",
+                "opciones": [
+                    "Hierro",
+                    "Cobre",
+                    "Titanio",
+                    "Plata"
+                ],
+                "respuesta_correcta": "Titanio"
+            },
+            {
+                "pregunta": "¿Cuál es el proceso de unir dos o más piezas de metal mediante la fusión de un material de relleno?",
+                "opciones": [
+                    "Galvanización",
+                    "Recocido",
+                    "Soldadura",
+                    "Temple"
+                ],
+                "respuesta_correcta": "Soldadura"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del principio físico que establece que la presión aplicada a un fluido en reposo se transmite igualmente en todas las direcciones?",
+                "opciones": [
+                    "Ley de Boyle-Mariotte",
+                    "Principio de Arquímedes",
+                    "Principio de Pascal",
+                    "Ley de Hooke"
+                ],
+                "respuesta_correcta": "Principio de Pascal"
+            }
+        ],
+        "experto": [
+            {
+                "pregunta": "¿Qué tipo de ingeniería se enfoca en el diseño y construcción de sistemas de control automático?",
+                "opciones": [
+                    "Ingeniería eléctrica",
+                    "Ingeniería química",
+                    "Ingeniería civil",
+                    "Ingeniería de control"
+                ],
+                "respuesta_correcta": "Ingeniería de control"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del proceso de fabricación que utiliza la impresión tridimensional para crear objetos sólidos a partir de un modelo digital?",
+                "opciones": [
+                    "Forjado",
+                    "Fundición",
+                    "Impresión 3D",
+                    "Mecanizado CNC"
+                ],
+                "respuesta_correcta": "Impresión 3D"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre de la máquina que se utiliza para medir con precisión la longitud de piezas y componentes?",
+                "opciones": [
+                    "Calibrador",
+                    "Máquina de corte por láser",
+                    "Torno de control numérico",
+                    "Prensa hidráulica"
+                ],
+                "respuesta_correcta": "Calibrador"
+            },
+            {
+                "pregunta": "¿En qué campo de la ingeniería se utiliza comúnmente el análisis de elementos finitos para evaluar el comportamiento estructural de piezas y componentes?",
+                "opciones": [
+                    "Ingeniería eléctrica",
+                    "Ingeniería química",
+                    "Ingeniería civil",
+                    "Ingeniería mecánica"
+                ],
+                "respuesta_correcta": "Ingeniería mecánica"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del proceso de eliminación de impurezas y escorias de la superficie del metal fundido?",
+                "opciones": [
+                    "Refinado",
+                    "Galvanización",
+                    "Decapado",
+                    "Recocido"
+                ],
+                "respuesta_correcta": "Decapado"
+            }
+        ]
+    }
+}

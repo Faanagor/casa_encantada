@@ -1,0 +1,212 @@
+{
+    "filosofia": {
+        "facil": [
+            {
+                "pregunta": "¿Quién es considerado el padre de la psicología moderna?",
+                "opciones": [
+                    "Aristóteles",
+                    "Sigmund Freud",
+                    "Platón",
+                    "William James"
+                ],
+                "respuesta_correcta": "Sigmund Freud"
+            },
+            {
+                "pregunta": "¿Cuál es la rama de la filosofía que se ocupa del estudio de la moral y los valores?",
+                "opciones": [
+                    "Epistemología",
+                    "Metafísica",
+                    "Ética",
+                    "Estética"
+                ],
+                "respuesta_correcta": "Ética"
+            },
+            {
+                "pregunta": "¿Qué filósofo es conocido por su teoría del contrato social y la idea del 'estado de naturaleza'?",
+                "opciones": [
+                    "Karl Marx",
+                    "John Locke",
+                    "Jean-Jacques Rousseau",
+                    "Immanuel Kant"
+                ],
+                "respuesta_correcta": "Jean-Jacques Rousseau"
+            },
+            {
+                "pregunta": "¿Qué teoría psicológica se enfoca en el estudio del comportamiento observable y sus relaciones con el entorno?",
+                "opciones": [
+                    "Psicoanálisis",
+                    "Conductismo",
+                    "Gestalt",
+                    "Humanismo"
+                ],
+                "respuesta_correcta": "Conductismo"
+            },
+            {
+                "pregunta": "¿Qué término se utiliza en psicología para describir la incapacidad de recordar eventos ocurridos antes de los 2-3 años de edad?",
+                "opciones": [
+                    "Amnesia anterógrada",
+                    "Amnesia retrógrada",
+                    "Amnesia infantil",
+                    "Amnesia selectiva"
+                ],
+                "respuesta_correcta": "Amnesia infantil"
+            }
+        ],
+        "medio": [
+            {
+                "pregunta": "¿Cuál es la teoría filosófica que se enfoca en la búsqueda del sentido y la autenticidad en la vida?",
+                "opciones": [
+                    "Existencialismo",
+                    "Racionalismo",
+                    "Empirismo",
+                    "Pragmatismo"
+                ],
+                "respuesta_correcta": "Existencialismo"
+            },
+            {
+                "pregunta": "¿Quién desarrolló la teoría de los arquetipos y el inconsciente colectivo en psicología?",
+                "opciones": [
+                    "Sigmund Freud",
+                    "B.F. Skinner",
+                    "Carl Jung",
+                    "Albert Bandura"
+                ],
+                "respuesta_correcta": "Carl Jung"
+            },
+            {
+                "pregunta": "¿Cuál es la teoría filosófica que sostiene que la verdad y la realidad son construcciones sociales y culturales?",
+                "opciones": [
+                    "Realismo",
+                    "Idealismo",
+                    "Constructivismo",
+                    "Posmodernismo"
+                ],
+                "respuesta_correcta": "Posmodernismo"
+            },
+            {
+                "pregunta": "¿Qué teoría psicológica se enfoca en la percepción y la organización de la información visual?",
+                "opciones": [
+                    "Psicoanálisis",
+                    "Conductismo",
+                    "Gestalt",
+                    "Humanismo"
+                ],
+                "respuesta_correcta": "Gestalt"
+            },
+            {
+                "pregunta": "¿Qué teoría psicológica se enfoca en el crecimiento personal, la autorrealización y la búsqueda de significado en la vida?",
+                "opciones": [
+                    "Psicoanálisis",
+                    "Conductismo",
+                    "Gestalt",
+                    "Humanismo"
+                ],
+                "respuesta_correcta": "Humanismo"
+            }
+        ],
+        "dificil": [
+            {
+                "pregunta": "¿Quién es el filósofo alemán conocido por su obra 'Así habló Zaratustra' y la idea del 'eterno retorno'?",
+                "opciones": [
+                    "Karl Marx",
+                    "Friedrich Nietzsche",
+                    "Immanuel Kant",
+                    "Søren Kierkegaard"
+                ],
+                "respuesta_correcta": "Friedrich Nietzsche"
+            },
+            {
+                "pregunta": "¿Qué filósofo desarrolló la teoría ética conocida como utilitarismo, que se centra en la maximización de la felicidad?",
+                "opciones": [
+                    "John Stuart Mill",
+                    "Jeremy Bentham",
+                    "Aristóteles",
+                    "Jean-Paul Sartre"
+                ],
+                "respuesta_correcta": "John Stuart Mill"
+            },
+            {
+                "pregunta": "¿Qué término psicológico se refiere al proceso de reprimir pensamientos o recuerdos dolorosos o angustiosos?",
+                "opciones": [
+                    "Disociación",
+                    "Desensibilización",
+                    "Represión",
+                    "Sustitución"
+                ],
+                "respuesta_correcta": "Represión"
+            },
+            {
+                "pregunta": "¿Cuál es la teoría psicológica que se centra en la importancia de las experiencias infantiles en el desarrollo de la personalidad?",
+                "opciones": [
+                    "Psicoanálisis",
+                    "Conductismo",
+                    "Gestalt",
+                    "Humanismo"
+                ],
+                "respuesta_correcta": "Psicoanálisis"
+            },
+            {
+                "pregunta": "¿Quién es el psicólogo suizo conocido por su teoría de la personalidad y el concepto de los arquetipos?",
+                "opciones": [
+                    "Sigmund Freud",
+                    "John Watson",
+                    "Carl Rogers",
+                    "Carl Jung"
+                ],
+                "respuesta_correcta": "Carl Jung"
+            }
+        ],
+        "experto": [
+            {
+                "pregunta": "¿Cuál es el nombre del filósofo alemán cuya obra 'Ser y tiempo' es fundamental en la fenomenología y la hermenéutica?",
+                "opciones": [
+                    "Karl Marx",
+                    "Friedrich Nietzsche",
+                    "Martin Heidegger",
+                    "Søren Kierkegaard"
+                ],
+                "respuesta_correcta": "Martin Heidegger"
+            },
+            {
+                "pregunta": "¿Qué teoría psicológica se centra en el estudio de la percepción visual y la psicofísica?",
+                "opciones": [
+                    "Psicología cognitiva",
+                    "Conductismo",
+                    "Psicoanálisis",
+                    "Humanismo"
+                ],
+                "respuesta_correcta": "Psicología cognitiva"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del filósofo existencialista francés conocido por su obra 'El ser y la nada'?",
+                "opciones": [
+                    "Jean-Paul Sartre",
+                    "Albert Camus",
+                    "Simone de Beauvoir",
+                    "Martin Heidegger"
+                ],
+                "respuesta_correcta": "Jean-Paul Sartre"
+            },
+            {
+                "pregunta": "¿Cuál es el concepto psicológico que se refiere a la tendencia a atribuir los propios pensamientos y sentimientos a otros?",
+                "opciones": [
+                    "Proyección",
+                    "Introyección",
+                    "Sublimación",
+                    "Desplazamiento"
+                ],
+                "respuesta_correcta": "Proyección"
+            },
+            {
+                "pregunta": "¿Qué filósofo alemán es conocido por su trabajo en la filosofía de la mente y la fenomenología?",
+                "opciones": [
+                    "Karl Marx",
+                    "Friedrich Nietzsche",
+                    "Martin Heidegger",
+                    "Edmund Husserl"
+                ],
+                "respuesta_correcta": "Edmund Husserl"
+            }
+        ]
+    }
+}
